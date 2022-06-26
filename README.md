@@ -1,7 +1,7 @@
 ### Hi there 👋 My Name is Sina Sadeqi 
 <ul>
-  <li> 🌱 I’m currently learning to master #React </li>
-  <li> 🌱 📫 How to reach me: <u>via phone +989187663394 </u> or <u> via Email @sadeq.s502@gmail.com </u> </li>  
+  <li> 🌱 I’m currently working to master <p color='blue'>React</p> </li>
+  <li> 🌱 📫 How to reach me: <u text-decoration: 'underline'>via phone +989187663394 </u> or <u> via Email @sadeq.s502@gmail.com </u> </li>  
   <li> ⚡ Fun fact: I got my Bachelor's degree in Chemical Engineering but I changed major and soon I'll be studying Computer Engineering or Information Technology for my Master's.
   The First programming language I learned was C in college. But I've been mostly working on Front-End development with #JavaScript for about a year now.</li>  
 </ul>
