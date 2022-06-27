@@ -21,10 +21,18 @@
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="55" height="55"/> 
   <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="Sass" width="55" height="55"/> 
   <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="VueJS" width="55" height="55"/> 
-  
-  
-  
+    
 </p>
+
+
+## Most Used Languages
+<h4 align="center">
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cimorexave&theme=tokyonight)
+
+</h4>
+
+
 <!--
 **Cimorexave/Cimorexave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
