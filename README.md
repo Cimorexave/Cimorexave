@@ -28,7 +28,7 @@
 ## Most Used Languages
 <h4 align="center">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cimorexave&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cimorexave&hide=html&theme=dracula)
 
 </h4>
 
