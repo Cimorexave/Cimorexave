@@ -8,9 +8,9 @@
 
 ## Skills
 <ul>
-  <li> 👨‍💻 JavaScript, C/C++ </li>
+  <li> 👨‍💻 JavaScript, C/C++, C# </li>
   <li> ⚙️ React, React Native, Vue </li>
-  <li> 👁️ CSS, Sass </li>
+  <li> 👁️ CSS, Sass, TailwindCSS, Material UI </li>
   <li> 💽 NodeJS, ExpressJS, NextJS </li>
 </ul>
 
