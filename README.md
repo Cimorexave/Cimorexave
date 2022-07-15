@@ -12,6 +12,7 @@
   <li> ⚙️ React, React Native, Vue </li>
   <li> 👁️ CSS, Sass, TailwindCSS, Material UI </li>
   <li> 💽 NodeJS, ExpressJS, NextJS </li>  
+  <li> 🌱 MongoDB, Firebase </li>  
 </ul>
 
 <p align="center"> 
