@@ -8,11 +8,11 @@
 
 ## Skills
 <ul>
-  <li> 👨‍💻 JavaScript/TypeScript , C/C++, C# </li>
-  <li> ⚙️ React, React Native, Vue </li>
-  <li> 👁️ CSS, Sass, TailwindCSS, Material UI </li>
-  <li> 💽 NodeJS, ExpressJS, NextJS </li>  
-  <li> 🌱 MongoDB, Firebase </li>  
+  <li> 👨‍💻 Languanges: JavaScript/TypeScript , C/C++, C# </li>
+  <li> ⚙️ Frameworks: React, React Native, ElectronJS, Vue, .NET Core  </li>
+  <li> 👁️ Styling: CSS, Sass, Material UI </li>
+  <li> 💽 Back-End/Full-Stack Frameworks: NodeJS, ExpressJS, NextJS </li>  
+  <li> 🌱 Database: MongoDB, MySQL </li>  
 </ul>
 
 <p align="center"> 
