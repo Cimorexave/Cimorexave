@@ -6,7 +6,7 @@ Feel free to contact me. Have a good day!
 
 ## Skills
 <ul>
-  <li> 👨‍💻 Languanges: JavaScript , C++, C# </li>
+  <li> 👨‍💻 Languanges: JavaScript , C++, C# </li> 
   <li> ⚙️ Frameworks: React, React Native, ElectronJS, NextJS, Vue, .NET Core  </li>
   <li> 👁️ Styling: CSS, Sass, Material UI </li>
   <li> 💽 Back-End Frameworks: NodeJS, ExpressJS </li>  
