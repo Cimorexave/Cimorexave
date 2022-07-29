@@ -13,7 +13,7 @@ Feel free to contact me. Have a good day!
   <li> 🌱 Database: MongoDB, MySQL </li>  
 </ul>
 <br>
-<p align="center" display='flex' gap='8'> 
+<p align="center" display='flex' gap='8'>
   <img src="https://seeklogo.com/images/C/c-logo-1B1817C041-seeklogo.com.png" alt="C++" width="55" height="55" margin="5"/>
   <img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" alt="TypeScript" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="55" height="55"/>
