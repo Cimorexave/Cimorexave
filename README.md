@@ -2,14 +2,13 @@
 
 Starting Computer Engineering Master's this fall; I'm a software engineer specialized in Front-End Development. <br>
 Learning Machine Learning right now... <br>
-Feel free to contact me. Have a good day!
+Feel free to contact me. Have a good day! 🌱
 
 ## Skills
 <ul>
   <li> 👨‍💻 Languanges: JavaScript , C++, C# </li> 
   <li> ⚙️ Frameworks: React, React Native, ElectronJS, NextJS, VueJS, NodeJS, .NET Core  </li>
   <li> 👁️ Styling: CSS, Sass, Material UI </li>
-  <li> 🌱 Database: MongoDB, MySQL </li>  
 </ul>
 <br>
 <p align="center" display='flex' gap='8'>
