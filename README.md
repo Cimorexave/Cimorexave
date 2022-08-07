@@ -8,7 +8,7 @@ Feel free to contact me. Have a good day! 🌱
 <ul>
   <li> 👨‍💻 Languanges: JavaScript , C++, C# </li> 
   <li> ⚙️ Frameworks: React, React Native, ElectronJS, NextJS, VueJS, NodeJS, .NET Core  </li>
-  <li> 👁️ Styling: CSS, Sass, Material UI </li>
+  <li> 👁️ Styling: CSS, Sass, Material UI </li> 
 </ul>
 <br>
 <p align="center" display='flex' gap='8'>
