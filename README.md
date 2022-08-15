@@ -23,7 +23,7 @@ Feel free to contact me. Have a good day! 🌱
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
     
 </p>
-<h4 align="center">
+<h4 align="right">
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cimorexave&hide=html&theme=dracula)
 
