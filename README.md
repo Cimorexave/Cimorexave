@@ -12,6 +12,17 @@ Feel free to contact me. Have a good day! 🌱
   <li> 🌱 Database: PostgreSQL, Prisma ORM </li> 
   <li> ⚡ Other Technologies: Docker </li> 
 </ul>
+<p align="right" display='flex' gap='8'>
+  <img src="https://seeklogo.com/images/C/c-logo-1B1817C041-seeklogo.com.png" alt="C++" width="55" height="55" margin="5"/>
+  <img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" alt="TypeScript" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="55" height="55"/>
+  <img src="https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png" alt="MUI" width="55" height="55"/>
+  <img src="https://seeklogo.com/images/N/nodejs-logo-065257DE24-seeklogo.com.png" alt="Nodejs" width="75" height="55"/>
+  <img src="https://seeklogo.com/images/N/npm-logo-01B8642EDD-seeklogo.com.png" alt="NPM" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
+    
+</p>
+
 <br>
 <p align="left" display='flex' gap='8'>
   <img src="https://seeklogo.com/images/C/c-logo-1B1817C041-seeklogo.com.png" alt="C++" width="55" height="55" margin="5"/>
@@ -23,11 +34,6 @@ Feel free to contact me. Have a good day! 🌱
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
     
 </p>
-<h4 align="right">
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cimorexave&hide=html&theme=dracula)
-
-</h4>
 
 ## Most Used Languages
 <h4 align="center">
