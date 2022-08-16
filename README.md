@@ -10,7 +10,7 @@ Feel free to contact me. Have a good day! 🌱
   <li> ⚙️ Frameworks: React, React Native, ElectronJS, NextJS, NodeJS, ExpressJS  </li>
   <li> 👁️ Styling: CSS, Sass, Material UI </li>  
   <li> 🌱 Database: PostgreSQL, Prisma ORM </li> 
-  <li> ⚡ Other Technologies: Docker </li> 
+ <!-- <li> ⚡ Other Technologies: Docker </li> -->
 </ul>
 <p align="right" display='flex' gap='8' style={{ paddingRight: "2em" }}>
   <img src="https://seeklogo.com/images/C/c-logo-1B1817C041-seeklogo.com.png" alt="C++" width="55" height="55" margin="5"/>
