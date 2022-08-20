@@ -7,7 +7,7 @@ Feel free to contact me. Have a good day! 🌱
 ## Skills
 <ul>
   <li> 👨‍💻 Languanges: TypeScript/JavaScript , C++, C# </li> 
-  <li> ⚙️ Frameworks: React, React Native, ElectronJS, NextJS, NodeJS, ExpressJS  </li>
+  <li> ⚙️ Frameworks: React, NodeJS, ExpressJS, NextJS, ElectronJS </li>
   <li> 👁️ Styling: CSS, Sass, Material UI </li>  
   <li> 🌱 Database: PostgreSQL, TypeOrm, MongoDB </li>
  <!-- <li> ⚡ Other Technologies: Docker </li> -->
