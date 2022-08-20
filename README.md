@@ -1,7 +1,7 @@
 ### Hi there 👋 My Name is Sina Sadeqi 
 
 Starting Computer Engineering Master's this fall; I'm a Full-Stack Software Developer specialized in Front-End Development. <br>
-Improving Back-End Development and learning Machine Learning right now... <br>
+Working on Back-End Development and learning Machine Learning right now... <br>
 Feel free to contact me. Have a good day! 🌱
 
 ## Skills
