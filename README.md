@@ -9,7 +9,7 @@ Feel free to contact me. Have a good day! 🌱
   <li> 👨‍💻 Languanges: TypeScript/JavaScript , C++, C# </li> 
   <li> ⚙️ Frameworks: React, React Native, ElectronJS, NextJS, NodeJS, ExpressJS  </li>
   <li> 👁️ Styling: CSS, Sass, Material UI </li>  
-  <li> 🌱 Database: PostgreSQL, typeOrm, MongoDB </li>
+  <li> 🌱 Database: PostgreSQL, TypeOrm, MongoDB </li>
  <!-- <li> ⚡ Other Technologies: Docker </li> -->
 </ul>
 <p align="right" display='flex' gap='8' style={{ paddingRight: "2em" }}>
