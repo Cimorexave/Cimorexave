@@ -10,7 +10,7 @@ Feel free to contact me. Have a good day! 🌱
   <li> ⚙️ Frameworks: ReactJS, NodeJS, ExpressJS, NextJS, ElectronJS </li>
   <li> 👁️ Styling: Css, Material UI </li>  
   <li> 🌱 Database: PostgreSQL, TypeORM, MongoDB </li>
-  <li> ⚡ Other Technologies: Docker, Postman  </li> <!-- NestJS, PrismaORM, LinuxOS(CLI), Redis -->
+  <li> ⚡ Other Technologies: Docker, Postman  </li> <!-- NestJS, PrismaORM, LinuxOS(CLI), Redis, Socket.io -->
 </ul>
 <p align="right" display='flex' gap='8' style={{ paddingRight: "2em" }}>
   <img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" alt="TypeScript" width="55" height="55"/>
