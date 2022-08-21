@@ -10,7 +10,7 @@ Feel free to contact me. Have a good day! 🌱
   <li> ⚙️ Frameworks: ReactJS, NodeJS, ExpressJS, NextJS, ElectronJS </li>
   <li> 👁️ Styling: Css, Material UI </li>  
   <li> 🌱 Database: PostgreSQL, TypeORM, MongoDB </li>
-  <li> ⚡ Other Technologies: Docker, Postman  </li> <!-- NestJS, Prisma, LinuxOS(CLI), Redis, Socket.io -->
+  <li> ⚡ Other Technologies: Docker, Postman  </li> <!-- NestJS, Prisma, LinuxOS(CLI), Redis, Socket.io, ThreeJS -->
   <!--  Concepts: Microservices, Clean Code, MVC, Design Patterns, OOP,  -->
 </ul>
 <p align="right" display='flex' gap='8' style={{ paddingRight: "2em" }}>
