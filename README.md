@@ -27,7 +27,7 @@ Feel free to contact me. Have a good day! 🌱
 ## Most Used Languages
 <h4 align="center">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cimorexave&hide=html&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cimorexave&hide=html&theme=tokyo)
 
 </h4>
 
