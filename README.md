@@ -10,8 +10,8 @@ Feel free to contact me. Have a good day! 🌱
   <li> ⚙️ Frameworks: ReactJS, NodeJS, ExpressJS, NextJS, ElectronJS </li>
   <li> 👁️ Styling: Css, Material UI </li>  
   <li> 🌱 Database: PostgreSQL, TypeORM, MongoDB </li>
-  <li> ⚡ Other Technologies: Docker, Postman  </li> <!-- NestJS, Prisma, LinuxOS(CLI), Redis, Socket.io, ThreeJS. gRPC, GraphQL -->
-  <!--  Concepts: Microservices, Clean Code, MVC, Design Patterns, OOP,  -->
+  <li> ⚡ Other Technologies: Docker, Postman  </li> <!-- NestJS, Prisma, LinuxOS(CLI), Redis, Socket.io, ThreeJS. gRPC, GraphQL, Apollo, -->
+  <!--  Concepts: Microservices, Clean Code, MVC, Design Patterns, OOP, DTO, CDN, CI/CD -->
 </ul>
 <p align="right" display='flex' gap='8' style={{ paddingRight: "2em" }}>
   <img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" alt="TypeScript" width="55" height="55"/>
