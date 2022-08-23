@@ -9,8 +9,8 @@ Feel free to contact me. Have a good day! 🌱
   <li> 👨‍💻 Languanges: TypeScript/JavaScript , C++, C# </li> <!-- Golang --> 
   <li> ⚙️ Frameworks: ReactJS, NodeJS, ExpressJS, NextJS, ElectronJS </li>
   <li> 👁️ Styling: Css, Material UI </li>  
-  <li> 🌱 Database: PostgreSQL, TypeORM, MongoDB </li>
-  <li> ⚡ Other Technologies: Docker, Postman  </li> <!-- NestJS, Prisma, LinuxOS(CLI), Redis, Socket.io, ThreeJS. gRPC, GraphQL, Apollo, -->
+  <li> 🌱 Database: PostgreSQL, TypeORM, Prisma, MongoDB </li>
+  <li> ⚡ Other Technologies: Docker, Postman  </li> <!-- NestJS, LinuxOS(CLI), Redis, Socket.io, ThreeJS. gRPC, GraphQL, Apollo, -->
   <!--  Concepts: Microservices, Clean Code, MVC, Design Patterns, OOP, DTO, CDN, CI/CD -->
 </ul>
 <p align="right" display='flex' gap='8' style={{ paddingRight: "2em" }}>
