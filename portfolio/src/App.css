@@ -8,6 +8,13 @@
     top: 0;
     z-index: -1;
 }
-.App {
-    color: aliceblue;
+@keyframes glow {
+    from {}
+    to {
+        scale: 1.1;
+        color: rgb(34 197 94 / var(--tw-text-opacity));
+    }
+}
+.here {
+    animation: glow infinite 2000ms ease-in-out alternate;
 }
