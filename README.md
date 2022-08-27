@@ -8,7 +8,7 @@ Feel free to contact me. Have a good day! 🌱
 <ul>
   <li> 👨‍💻 Languanges: TypeScript/JavaScript , C++, C# </li> <!-- Golang --> 
   <li> ⚙️ Frameworks: ReactJS, NextJS, NodeJS, ExpressJS, NestJS, ElectronJS </li>
-  <li> 👁️ Styling: Css, Material UI, Framer Motion </li>  
+  <li> 👁️ Styling: CSS, Tailwind, Material UI, Framer Motion </li>  
   <li> 🌱 Database: PostgreSQL, TypeORM, Prisma, MongoDB </li>
   <li> ⚡ Other Technologies: Docker, Postman  </li> <!-- LinuxOS(CLI), Redis, Socket.io, ThreeJS. gRPC, GraphQL, Apollo, Kavenger -->
   <!--  Concepts: Microservices, Clean Code, MVC, Design Patterns, OOP, DTO, CDN, CI/CD -->
