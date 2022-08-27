@@ -14,7 +14,9 @@ function App() {
     return (
         <div>
             <Particles options={particlesOptions as ISourceOptions} init={particlesInit}/>
-            
+            <div className="App">
+                Text to see the font
+            </div>
         </div>
     );
 }

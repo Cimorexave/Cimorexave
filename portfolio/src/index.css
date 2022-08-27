@@ -1,6 +1,9 @@
 @font-face {
     font-family: "SourceCodePro";
     src: local("SourceCodePro")
-    url() format("truetype");
+    url("./assets/SourceCodePro-VariableFont_wght.ttf") format("truetype");
     font-weight: normal;
+}
+* {
+    font-family: SourceCodePro;
 }
