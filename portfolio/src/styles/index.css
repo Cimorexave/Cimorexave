@@ -1,0 +1,11 @@
+
+/*importing font*/
+@font-face {
+    font-family: "SourceCodePro";
+    src: local("SourceCodePro"),
+    url(./fonts/SourceCodePro-VariableFont_wght.ttf) format("truetype");
+    font-weight: normal;
+}
+*{
+    font-family: SourceCodePro;
+}
