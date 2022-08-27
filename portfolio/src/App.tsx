@@ -22,8 +22,8 @@ function App() {
     }
     //lifecycle management
     useEffect(() => {
-        const x = (Math.random()*window.innerWidth).toString();
-        const y = (Math.random()*window.innerHeight).toString();
+        const x = Math.floor(Math.random()*window.innerWidth).toString();
+        const y = Math.floor(Math.random()*window.innerHeight).toString();
         //these values are passed down into the component for random positioning
         console.log(`x:${x} , y: ${y}`);
     }, [start])
