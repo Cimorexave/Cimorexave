@@ -11,7 +11,7 @@ Feel free to contact me. Have a good day! 🌱
   <li> 👁️ Styling: CSS, Tailwind, Material UI, Framer Motion </li>  
   <li> 🌱 Database: PostgreSQL, TypeORM, Prisma, MongoDB </li>
   <li> ⚡ Other Technologies: Docker, Postman  </li> <!-- LinuxOS(CLI), Redis, Socket.io, ThreeJS. gRPC, GraphQL, Apollo, Kavenger -->
-  <!--  Concepts: Microservices, Clean Code, MVC, Design Patterns, OOP, DTO, CDN, CI/CD -->
+  <!--  Concepts: Microservices, Clean Code, MVC, Design Patterns, OOP, DTO, CDN, CI/CD --> 
 </ul>
 <p align="right" display='flex' gap='8' style={{ paddingRight: "2em" }}>
   <img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" alt="TypeScript" width="55" height="55"/>
