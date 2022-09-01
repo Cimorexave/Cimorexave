@@ -29,7 +29,7 @@ function App() {
     }, [start])
 
     return (
-        <div>
+        <div className="w-screen h-screen">
             <Particles options={particlesOptions as ISourceOptions} init={particlesInit}/>
             <motion.div initial={{ y: -80, opacity: 0 }} 
             animate={{ y: start? -80: 0, opacity: start? 0: 1 }} transition={{ duration: 1, delay: 2 }} 
@@ -38,6 +38,7 @@ function App() {
                 className="underline relative cursor-pointer link italic inline-block here">
                     Here
                     </motion.div> To Start
+                    
             </motion.div>
             <motion.div animate={{ scale: start? 1:0 }}><CircleComponent /></motion.div>
         </div>
