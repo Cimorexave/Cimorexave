@@ -1,6 +1,6 @@
 ### Hi there 👋 My Name is Sina Sadeqi 
 
-Starting Computer Network Engineering M.Sc at IUST this September; I'm a Full-Stack Software Developer specialized in Front-End Development. <br>
+Starting Computer Network Engineering M.Sc this September; I'm a Full-Stack Software Developer specialized in Front-End Development. <br>
 Working on Back-End Development and learning Machine Learning right now... <br>
 Feel free to contact me. Have a good day! 🌱
 
