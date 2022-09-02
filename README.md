@@ -6,7 +6,7 @@ Feel free to contact me. Have a good day! 🌱
 
 ## Skills
 <ul>
-  <li> 👨‍💻 Languanges: TypeScript/JavaScript, C# </li> <!-- Golang --> 
+  <li> 👨‍💻 Languanges: TypeScript/JavaScript, C#, C++ </li> <!-- Golang --> 
   <li> ⚙️ Frameworks: ReactJS, NextJS, NodeJS, ExpressJS, NestJS, ElectronJS </li>
   <li> 👁️ Styling: CSS, Tailwind, Material UI, Framer Motion </li>  
   <li> 🌱 Database: PostgreSQL, TypeORM, Prisma, MongoDB </li>
