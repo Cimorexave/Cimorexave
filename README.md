@@ -21,6 +21,8 @@ Feel free to contact me. Have a good day! 🌱
   <!-- <img src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png" alt="Nestjs" width="65" height="60"/> -->
   <img src="https://seeklogo.com/images/N/npm-logo-01B8642EDD-seeklogo.com.png" alt="NPM" width="55" height="55"/>
   <img src="https://seeklogo.com/images/P/PostgreSQL_Inc-logo-09A7EFEB72-seeklogo.com.png" alt="PostgreSQL" width="55" height="55" margin="5"/>
+  <img src="https://seeklogo.com/images/T/typeorm-logo-F243B34DEE-seeklogo.com.png" alt="TypeORM" width="55" height="55" margin="5"/>
+  <img src="https://seeklogo.com/images/D/docker-logo-CF97D0124B-seeklogo.com.png" alt="Docker" width="55" height="55" margin="5"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
     
 </p>
