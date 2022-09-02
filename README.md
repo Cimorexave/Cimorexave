@@ -1,16 +1,16 @@
 ### Hi there 👋 My Name is Sina Sadeqi 
 
 Starting Computer Network Engineering M.Sc this September; I'm a Full-Stack Software Developer specialized in Front-End Development. <br>
-Working on Back-End Development and learning Machine Learning right now... <br>
+Working on Algorithmic Trading and Web Scraping with Firebase cloud functions and puppeteer right now ... <br>
 Feel free to contact me. Have a good day! 🌱
 
 ## Skills
 <ul>
-  <li> 👨‍💻 Languanges: TypeScript/JavaScript, C#, C++ </li> <!-- Golang --> 
-  <li> ⚙️ Frameworks: ReactJS, NextJS, NodeJS, ExpressJS, NestJS, ElectronJS </li>
+  <li> 👨‍💻 Languanges: TypeScript/JavaScript, C#, C++ </li> <!-- Golang, Python --> 
+  <li> ⚙️ Frameworks: ReactJS, NextJS, NodeJS, ExpressJS, ElectronJS </li> <!-- Firebase -->
   <li> 👁️ Styling: CSS, Tailwind, Material UI, Framer Motion </li>  
   <li> 🌱 Database: PostgreSQL, TypeORM, Prisma, MongoDB </li>
-  <li> ⚡ Other Technologies: Docker, Postman  </li> <!-- LinuxOS(CLI), Redis, Socket.io, ThreeJS. gRPC, GraphQL, Apollo, Kavenger -->
+  <li> ⚡ Other Technologies: Docker, Postman  </li> <!-- LinuxOS(CLI), Redis, Socket.io, ThreeJS. gRPC, GraphQL, Apollo, Kavenger, puppeteer -->
   <!--  Concepts: Microservices, Clean Code, MVC, Design Patterns, OOP, DTO, CDN, CI/CD --> 
 </ul>
 <p align="right" display='flex' gap='8' style={{ paddingRight: "2em" }}>
