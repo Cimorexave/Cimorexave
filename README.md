@@ -1,7 +1,7 @@
 ### Hi there 👋 My Name is Sina Sadeqi 
 
 Starting Computer Network Engineering M.Sc this September; I'm a Full-Stack Software Developer specialized in Front-End Development. <br>
-Working on Algorithmic Trading and Web Scraping with Firebase cloud functions and puppeteer right now ... <br>
+Working on Algorithmic Trading and Machine Learning right now ... <br>
 Feel free to contact me. Have a good day! 🌱
 
 ## Skills
