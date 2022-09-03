@@ -8,7 +8,7 @@ Feel free to contact me. Have a good day! 🌱
 <ul>
   <li> 👨‍💻 Languanges: TypeScript/JavaScript, C#, C++ </li> <!-- Golang, Python --> 
   <li> ⚙️ Frameworks: ReactJS, NextJS, NodeJS, ExpressJS, ElectronJS </li> <!-- Firebase -->
-  <li> 👁️ Styling: CSS, Tailwind, Material UI, Framer Motion </li>  
+  <li> 👁️ Styling: CSS, Tailwind, Material UI, Framer Motion </li>   
   <li> 🌱 Database: PostgreSQL, TypeORM, Prisma, MongoDB </li>
   <li> ⚡ Other Technologies: Docker, Postman  </li> <!-- LinuxOS(CLI), Redis, Socket.io, ThreeJS. gRPC, GraphQL, Apollo, Kavenger, puppeteer -->
   <!--  Concepts: Microservices, Clean Code, MVC, Design Patterns, OOP, DTO, CDN, CI/CD --> 
@@ -30,7 +30,7 @@ Feel free to contact me. Have a good day! 🌱
 ## Most Used Languages
 <h4 align="center">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cimorexave&hide=html&theme=tokyo)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cimorexave&hide=html&theme=dracula)
 
 </h4>
 
