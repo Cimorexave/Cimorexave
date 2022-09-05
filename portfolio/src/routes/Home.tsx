@@ -51,9 +51,10 @@ function Home() {
       {/* Disabled Particles  */}
       {!isParticles && (
         <motion.div
+          initial={{ opacity: 0 }}
           animate={{
-            opacity: isParticles ? 0 : 1,
-            transitionDuration: "10000ms",
+            opacity: 1,
+            transitionDuration: "500ms",
           }}
           className="bg-disabled-particles -z-10 bg-slate-800 w-screen h-screen"
         >
