@@ -10,6 +10,7 @@ import { motion } from "framer-motion";
 import CircleComponent from "./components/CircleComponent";
 
 function App() {
+    //Particles Load
   const particlesInit = useCallback(async (engine: Engine) => {
     await loadFull(engine);
   }, []);
@@ -19,19 +20,29 @@ function App() {
 
   //states
   const [start, setStart] = useState<boolean>(false);
+
   //handle start
   const handleStart = () => {
     setStart(true);
   };
+
   //lifecycle management
   useEffect(() => {}, [start]);
 
   return (
-    <div ref={circleConstraint} className="div w-screen h-screen overflow-hidden">
+
+    //Parent
+    <div
+      ref={circleConstraint}
+      className="div w-screen h-screen overflow-hidden"
+    >
+        {/* Particles  */}
       <Particles
         options={particlesOptions as ISourceOptions}
         init={particlesInit}
       />
+
+      {/* Text  */}
       <motion.div
         initial={{ y: -80, opacity: 0 }}
         animate={{ y: start ? -80 : 0, opacity: start ? 0 : 1 }}
@@ -49,24 +60,19 @@ function App() {
         </motion.div>{" "}
         To Start
       </motion.div>
-      <motion.div
-        className="circle-parent"
-        animate={{ scale: start ? 1 : 0 }}
-        transition={{ duration: "1000ms" }}
-      >
-        <motion.div
-          drag
-          initial={{ scale: 0 }}
-          whileHover={{ scale: 1.1 }}
-          animate={{ scale: 1 }}
-          whileDrag={{ scale: 0.9 }}
-          dragConstraints={circleConstraint}
-          className=" rounded-full w-32 h-32 p-4 shadow-2xl
-        text-green-200 bg-slate-600 left-8 top-20 bg-opacity-80 relative right "
-        ></motion.div>
 
-        {/* <CircleComponent /> */}
-      </motion.div>
+      {/* Circles  */}
+      <motion.div
+        drag
+        initial={{ scale: 0 }}
+        whileHover={{ scale: 1.1 }}
+        animate={{ scale: start ? 1 : 0 }}
+        whileDrag={{ scale: 0.9 }}
+        dragConstraints={circleConstraint}
+        className=" rounded-full w-32 h-32 p-4 shadow-2xl
+        text-green-200 bg-slate-600 left-8 top-20 bg-opacity-80 relative right "
+      ></motion.div>
+      {/* <CircleComponent /> */}
     </div>
   );
 }
