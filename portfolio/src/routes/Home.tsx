@@ -6,7 +6,7 @@ import "../App.css";
 import particlesOptions from "../particles.json";
 import { ISourceOptions } from "tsparticles-engine";
 
-import DisabledGraphics from "../components/DisabledGraphics";
+import DisabledGraphics from "../routes/DisabledGraphics";
 
 import { motion } from "framer-motion";
 import CircleComponent from "../components/CircleComponent";
