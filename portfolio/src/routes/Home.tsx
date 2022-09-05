@@ -40,14 +40,15 @@ function Home() {
       ref={circleConstraint}
       className="div w-screen h-screen overflow-hidden"
     >
-      {/* Particles  */}
+      {/* Active Particles  */}
       {isParticles && (
         <Particles
           options={particlesOptions as ISourceOptions}
           init={particlesInit}
         />
       )}
-      {/* disabled particles bg  */}
+
+      {/* Disabled Particles  */}
       {!isParticles && (
         <motion.div
           animate={{
@@ -60,7 +61,7 @@ function Home() {
         </motion.div>
       )}
 
-      {/* Text  */}
+      {/* Start Text  */}
       <motion.div
         initial={{ y: -80, opacity: 0 }}
         animate={{ y: start ? -80 : 0, opacity: start ? 0 : 1 }}
@@ -80,24 +81,10 @@ function Home() {
       </motion.div>
 
       {/* Circles  */}
-      {/* <motion.div
-        drag
-        initial={{ scale: 0 }}
-        whileHover={{ scale: 1.1, cursor: "pointer" }}
-        animate={{ scale: start ? 1 : 0 }}
-        whileDrag={{ scale: 0.9 }}
-        dragConstraints={circleConstraint}
-        className=" rounded-full w-32 h-32 p-4 shadow-2xl
-        text-green-200 bg-slate-600 left-8 top-20 bg-opacity-80 relative right "
-      ></motion.div> */}
-
       {/* Circle Component  */}
-      <CircleComponent 
-      start={start} 
-      circleConstraints={circleConstraint}      
-      />
+      <CircleComponent start={start} circleConstraints={circleConstraint} />
 
-      {/* Disable Particles  */}
+      {/* Disable Particles Text  */}
       <div className="disable-text absolute bottom-3 left-3 text-gray-400 text-xs">
         annoying?{" "}
         <motion.span
