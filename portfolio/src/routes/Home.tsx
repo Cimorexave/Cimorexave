@@ -1,0 +1,80 @@
+import React, { useCallback, useEffect, useRef, useState } from "react";
+import Particles from "react-particles";
+import type { Engine } from "tsparticles-engine";
+import { loadFull } from "tsparticles";
+import "../App.css";
+import particlesOptions from "../particles.json";
+import { ISourceOptions } from "tsparticles-engine";
+
+import { motion } from "framer-motion";
+import CircleComponent from "../components/CircleComponent";
+
+function Home() {
+    //Particles Load
+  const particlesInit = useCallback(async (engine: Engine) => {
+    await loadFull(engine);
+  }, []);
+
+  //Refs
+  const circleConstraint = useRef(null);
+
+  //states
+  const [start, setStart] = useState<boolean>(false);
+
+  //handle start
+  const handleStart = () => {
+    setStart(true);
+  };
+
+  //lifecycle management
+  useEffect(() => {}, [start]);
+
+  return (
+
+    //Parent
+    <div
+      ref={circleConstraint}
+      className="div w-screen h-screen overflow-hidden"
+    >
+        {/* Particles  */}
+      <Particles
+        options={particlesOptions as ISourceOptions}
+        init={particlesInit}
+      />
+
+      {/* Text  */}
+      <motion.div
+        initial={{ y: -80, opacity: 0 }}
+        animate={{ y: start ? -80 : 0, opacity: start ? 0 : 1 }}
+        transition={{ duration: 1, delay: 2 }}
+        className="App text-center text-green-200 font-extrabold text-2xl m-8 "
+      >
+        Tap{" "}
+        <motion.div
+          onClick={handleStart}
+          animate={{ scale: start ? 0.9 : 1 }}
+          transition={{ duration: 0.3 }}
+          className="underline relative cursor-pointer link italic inline-block here"
+        >
+          Here
+        </motion.div>{" "}
+        To Start
+      </motion.div>
+
+      {/* Circles  */}
+      <motion.div
+        drag
+        initial={{ scale: 0 }}
+        whileHover={{ scale: 1.1, cursor: "pointer" }}
+        animate={{ scale: start ? 1 : 0 }}
+        whileDrag={{ scale: 0.9 }}
+        dragConstraints={circleConstraint}
+        className=" rounded-full w-32 h-32 p-4 shadow-2xl
+        text-green-200 bg-slate-600 left-8 top-20 bg-opacity-80 relative right "
+      ></motion.div>
+      {/* <CircleComponent /> */}
+    </div>
+  );
+}
+
+export default Home;
