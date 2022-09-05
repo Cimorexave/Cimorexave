@@ -86,7 +86,7 @@ function Home() {
 
       {/* Disable Particles Text  */}
       <div className="disable-text absolute bottom-3 left-3 text-gray-400 text-xs">
-        annoying?{" "}
+        {isParticles ? "annoying?" : "boring?"}{" "}
         <motion.span
           whileHover={{ cursor: "pointer" }}
           onClick={() => {
