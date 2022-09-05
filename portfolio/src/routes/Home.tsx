@@ -1,12 +1,15 @@
 import React, { useCallback, useEffect, useRef, useState } from "react";
 import Particles from "react-particles";
-import type { Engine } from "tsparticles-engine";
+import { Engine, Opacity } from "tsparticles-engine";
 import { loadFull } from "tsparticles";
 import "../App.css";
 import particlesOptions from "../particles.json";
 import { ISourceOptions } from "tsparticles-engine";
 
+import DisabledGraphics from "../components/DisabledGraphics";
+
 import { motion } from "framer-motion";
+import CircleComponent from "../components/CircleComponent";
 
 function Home() {
   //Particles Load
@@ -44,6 +47,19 @@ function Home() {
           init={particlesInit}
         />
       )}
+      {/* disabled particles bg  */}
+      {!isParticles && (
+        <motion.div
+          animate={{
+            opacity: isParticles ? 0 : 1,
+            transitionDuration: "10000ms",
+          }}
+          className="bg-disabled-particles -z-10 bg-slate-800 w-screen h-screen"
+        >
+          <DisabledGraphics />
+        </motion.div>
+      )}
+
       {/* Text  */}
       <motion.div
         initial={{ y: -80, opacity: 0 }}
@@ -64,7 +80,7 @@ function Home() {
       </motion.div>
 
       {/* Circles  */}
-      <motion.div
+      {/* <motion.div
         drag
         initial={{ scale: 0 }}
         whileHover={{ scale: 1.1, cursor: "pointer" }}
@@ -73,19 +89,25 @@ function Home() {
         dragConstraints={circleConstraint}
         className=" rounded-full w-32 h-32 p-4 shadow-2xl
         text-green-200 bg-slate-600 left-8 top-20 bg-opacity-80 relative right "
-      ></motion.div>
+      ></motion.div> */}
+
+      {/* Circle Component  */}
+      <CircleComponent 
+      start={start} 
+      circleConstraints={circleConstraint}      
+      />
 
       {/* Disable Particles  */}
       <div className="disable-text absolute bottom-3 left-3 text-gray-400 text-xs">
         annoying?{" "}
         <motion.span
-        whileHover={{ cursor: "pointer" }}
+          whileHover={{ cursor: "pointer" }}
           onClick={() => {
             setIsParticles(!isParticles);
           }}
           className="text-sm font-bold underline"
         >
-          {isParticles? "Disable" : "Enable"}
+          {isParticles ? "Disable" : "Enable"}
         </motion.span>{" "}
         background graphics
       </div>
