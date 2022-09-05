@@ -7,7 +7,6 @@ import particlesOptions from "../particles.json";
 import { ISourceOptions } from "tsparticles-engine";
 
 import { motion } from "framer-motion";
-import CircleComponent from "../components/CircleComponent";
 
 function Home() {
     //Particles Load
