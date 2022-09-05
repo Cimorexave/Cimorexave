@@ -1,4 +1,4 @@
-import React, { useCallback, useEffect, useState } from "react";
+import React, { useCallback, useEffect, useRef, useState } from "react";
 import Particles from "react-particles";
 import type { Engine } from "tsparticles-engine";
 import { loadFull } from "tsparticles";
@@ -14,6 +14,9 @@ function App() {
     await loadFull(engine);
   }, []);
 
+  //Refs
+  const circleConstraint = useRef(null);
+
   //states
   const [start, setStart] = useState<boolean>(false);
   //handle start
@@ -21,15 +24,10 @@ function App() {
     setStart(true);
   };
   //lifecycle management
-  useEffect(() => {
-    const x = Math.floor(Math.random() * window.innerWidth).toString();
-    const y = Math.floor(Math.random() * window.innerHeight).toString();
-    //these values are passed down into the component for random positioning
-    console.log(`x:${x} , y: ${y}`);
-  }, [start]);
+  useEffect(() => {}, [start]);
 
   return (
-    <div>
+    <div ref={circleConstraint} className="div w-screen h-screen overflow-hidden">
       <Particles
         options={particlesOptions as ISourceOptions}
         init={particlesInit}
@@ -51,8 +49,23 @@ function App() {
         </motion.div>{" "}
         To Start
       </motion.div>
-      <motion.div animate={{ scale: start ? 1 : 0 }} transition={{ duration: "1000ms" }}>
-        <CircleComponent />
+      <motion.div
+        className="circle-parent"
+        animate={{ scale: start ? 1 : 0 }}
+        transition={{ duration: "1000ms" }}
+      >
+        <motion.div
+          drag
+          initial={{ scale: 0 }}
+          whileHover={{ scale: 1.1 }}
+          animate={{ scale: 1 }}
+          whileDrag={{ scale: 0.9 }}
+          dragConstraints={circleConstraint}
+          className=" rounded-full w-32 h-32 p-4 shadow-2xl
+        text-green-200 bg-slate-600 left-8 top-20 bg-opacity-80 relative right "
+        ></motion.div>
+
+        {/* <CircleComponent /> */}
       </motion.div>
     </div>
   );
