@@ -65,7 +65,7 @@ function App() {
       <motion.div
         drag
         initial={{ scale: 0 }}
-        whileHover={{ scale: 1.1 }}
+        whileHover={{ scale: 1.1, cursor: "pointer" }}
         animate={{ scale: start ? 1 : 0 }}
         whileDrag={{ scale: 0.9 }}
         dragConstraints={circleConstraint}
