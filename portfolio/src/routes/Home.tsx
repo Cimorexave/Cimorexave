@@ -38,7 +38,7 @@ function Home() {
     //Parent
     <div
       ref={circleConstraint}
-      className="div w-screen h-screen overflow-hidden"
+      className="div w-screen h-screen overflow-hidden "
     >
       {/* Active Particles  */}
       {isParticles && (
