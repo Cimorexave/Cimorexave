@@ -9,7 +9,7 @@ import { ISourceOptions } from "tsparticles-engine";
 import { motion } from "framer-motion";
 
 function Home() {
-    //Particles Load
+  //Particles Load
   const particlesInit = useCallback(async (engine: Engine) => {
     await loadFull(engine);
   }, []);
@@ -18,7 +18,10 @@ function Home() {
   const circleConstraint = useRef(null);
 
   //states
+  //start
   const [start, setStart] = useState<boolean>(false);
+  //particles
+  const [isParticles, setIsParticles] = useState<boolean>(true);
 
   //handle start
   const handleStart = () => {
@@ -29,18 +32,18 @@ function Home() {
   useEffect(() => {}, [start]);
 
   return (
-
     //Parent
     <div
       ref={circleConstraint}
       className="div w-screen h-screen overflow-hidden"
     >
-        {/* Particles  */}
-      <Particles
-        options={particlesOptions as ISourceOptions}
-        init={particlesInit}
-      />
-
+      {/* Particles  */}
+      {isParticles && (
+        <Particles
+          options={particlesOptions as ISourceOptions}
+          init={particlesInit}
+        />
+      )}
       {/* Text  */}
       <motion.div
         initial={{ y: -80, opacity: 0 }}
@@ -71,7 +74,21 @@ function Home() {
         className=" rounded-full w-32 h-32 p-4 shadow-2xl
         text-green-200 bg-slate-600 left-8 top-20 bg-opacity-80 relative right "
       ></motion.div>
-      {/* <CircleComponent /> */}
+
+      {/* Disable Particles  */}
+      <div className="disable-text absolute bottom-3 left-3 text-gray-400 text-xs">
+        annoying?{" "}
+        <motion.span
+        whileHover={{ cursor: "pointer" }}
+          onClick={() => {
+            setIsParticles(!isParticles);
+          }}
+          className="text-sm font-bold underline"
+        >
+          {isParticles? "Disable" : "Enable"}
+        </motion.span>{" "}
+        background graphics
+      </div>
     </div>
   );
 }
