@@ -20,6 +20,7 @@ const CircleComponent = (props: CCPropsInterface) => {
   
   return (
     <motion.div
+      onViewportLeave={() => {  }}
       drag
       initial={{ scale: 0 }}
       whileHover={{ scale: 1.1, cursor: "pointer" }}

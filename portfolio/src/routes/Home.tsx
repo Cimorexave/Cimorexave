@@ -1,4 +1,10 @@
-import React, { useCallback, useContext, useEffect, useRef, useState } from "react";
+import React, {
+  useCallback,
+  useContext,
+  useEffect,
+  useRef,
+  useState,
+} from "react";
 import Particles from "react-particles";
 import { Engine, Opacity } from "tsparticles-engine";
 import { loadFull } from "tsparticles";
@@ -26,7 +32,7 @@ function Home() {
   const [start, setStart] = useState<boolean>(false);
   //context state
   const { isDragging } = useContext(dragContext);
-  
+
   //particles
   const [isParticles, setIsParticles] = useState<boolean>(true);
 
@@ -89,8 +95,7 @@ function Home() {
       {/* Circle Component  */}
       <CircleComponent 
       start={start} 
-      circleConstraints={circleConstraint} 
-      />
+      circleConstraints={circleConstraint} />
 
       {/* Disable Particles Text  */}
       <div className="disable-text absolute bottom-3 left-3 text-gray-400 text-xs">
@@ -109,10 +114,17 @@ function Home() {
 
       {/* Glowing light  */}
       <motion.div
-      animate={{ opacity: isDragging? 1: 0, transitionDuration: "200ms" }}
+        animate={{ opacity: isDragging ? 1 : 0, transitionDuration: "200ms" }}
         className="glowing-line absolute bottom-0 w-screen 
       h-1 bg-green-400 shadow-2xl shadow-green-200"
-      ></motion.div>
+      >
+        <motion.div
+          initial={{ opacity: 0 }}
+          animate={{ opacity: 1 }}
+          transition={{ yoyo: Infinity, duration: 0.8 }}
+          className="glowing-shadow bg-green-800 w-screen h-3 "
+        ></motion.div>
+      </motion.div>
     </div>
   );
 }
