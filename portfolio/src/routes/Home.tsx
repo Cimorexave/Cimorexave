@@ -25,7 +25,7 @@ function Home() {
   //start
   const [start, setStart] = useState<boolean>(false);
   //context state
-  const { isDragging, setIsDragging } = useContext(dragContext);
+  const { isDragging } = useContext(dragContext);
   
   //particles
   const [isParticles, setIsParticles] = useState<boolean>(true);
@@ -109,6 +109,7 @@ function Home() {
 
       {/* Glowing light  */}
       <motion.div
+      animate={{ opacity: isDragging? 1: 0, transitionDuration: "200ms" }}
         className="glowing-line absolute bottom-0 w-screen 
       h-1 bg-green-400 shadow-2xl shadow-green-200"
       ></motion.div>

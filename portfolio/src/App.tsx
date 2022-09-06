@@ -1,6 +1,6 @@
 //imports
 //react utils
-import React, { useContext } from "react";
+import { useState } from "react";
 //react router
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 //Components & Routes
@@ -10,15 +10,15 @@ import { dragContext } from "./utils/context";
 
 const App = () => {
   //context state
-  const { isDragging, setIsDragging } = useContext(dragContext);
+  const [isDragging, setIsDragging]  = useState();
 
   return (
     <BrowserRouter>
-      <Routes>
-        <dragContext.Provider value={{isDragging, setIsDragging}} >
+      <dragContext.Provider value={{ isDragging: false, setIsDragging: () => {} }}>
+        <Routes>
           <Route path="/" element={<Home />} />
-        </dragContext.Provider>
-      </Routes>
+        </Routes>
+      </dragContext.Provider>
     </BrowserRouter>
   );
 };

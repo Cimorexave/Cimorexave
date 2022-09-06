@@ -1,11 +1,11 @@
 import React from "react";
 
-interface dragContextInterface {
-    isDragging: boolean,
-    setIsDragging: () => void 
+export interface dragContextInterface {
+  isDragging: boolean;
+  setIsDragging: Function;
 }
 
 export const dragContext = React.createContext<dragContextInterface>({
-    isDragging: false,
-    setIsDragging: () => {}
-})
+  isDragging: false,
+  setIsDragging: () => {},
+});
