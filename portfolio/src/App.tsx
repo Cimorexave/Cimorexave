@@ -10,11 +10,11 @@ import { dragContext } from "./utils/context";
 
 const App = () => {
   //context state
-  const [isDragging, setIsDragging]  = useState();
+  const [isDragging, setIsDragging]  = useState<any>();
 
   return (
     <BrowserRouter>
-      <dragContext.Provider value={{ isDragging: false, setIsDragging: () => {} }}>
+      <dragContext.Provider value={{ isDragging, setIsDragging }}>
         <Routes>
           <Route path="/" element={<Home />} />
         </Routes>
