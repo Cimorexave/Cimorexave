@@ -15,12 +15,15 @@ interface CCPropsInterface {
 
 const CircleComponent = (props: CCPropsInterface) => {
 
-  //context state
+  //States
+  //Context
   const { isDragging, setIsDragging } = useContext(dragContext);
-  
+
+  //Expanded 
+  const [isExpanded, setIsExpanded] = useState<boolean>(false)
   return (
     <motion.div
-      onViewportLeave={() => {  }}
+      onViewportLeave={() => { setIsExpanded(true); console.log('Exited Viewport') }}
       drag
       initial={{ scale: 0 }}
       whileHover={{ scale: 1.1, cursor: "pointer" }}
@@ -33,9 +36,10 @@ const CircleComponent = (props: CCPropsInterface) => {
         text-green-200 bg-slate-600 left-8 top-20 bg-opacity-80 
         relative right grid place-items-center text-xl drop-shadow-2xl font-bold"
     >
-        Skills
+      Skills
     </motion.div>
   );
 };
+
 
 export default CircleComponent;
