@@ -1,4 +1,4 @@
-import React, { useCallback, useEffect, useRef, useState } from "react";
+import React, { useCallback, useContext, useEffect, useRef, useState } from "react";
 import Particles from "react-particles";
 import { Engine, Opacity } from "tsparticles-engine";
 import { loadFull } from "tsparticles";
@@ -10,6 +10,7 @@ import DisabledGraphics from "../routes/DisabledGraphics";
 
 import { motion } from "framer-motion";
 import CircleComponent from "../components/CircleComponent";
+import { dragContext } from "../utils/context";
 
 function Home() {
   //Particles Load
@@ -23,6 +24,9 @@ function Home() {
   //states
   //start
   const [start, setStart] = useState<boolean>(false);
+  //context state
+  const { isDragging, setIsDragging } = useContext(dragContext);
+  
   //particles
   const [isParticles, setIsParticles] = useState<boolean>(true);
 
@@ -38,7 +42,7 @@ function Home() {
     //Parent
     <div
       ref={circleConstraint}
-      className="div w-screen h-screen overflow-hidden "
+      className="div w-screen h-[130vh] overflow-hidden "
     >
       {/* Active Particles  */}
       {isParticles && (
@@ -83,7 +87,10 @@ function Home() {
 
       {/* Circles  */}
       {/* Circle Component  */}
-      <CircleComponent start={start} circleConstraints={circleConstraint} />
+      <CircleComponent 
+      start={start} 
+      circleConstraints={circleConstraint} 
+      />
 
       {/* Disable Particles Text  */}
       <div className="disable-text absolute bottom-3 left-3 text-gray-400 text-xs">
@@ -99,6 +106,12 @@ function Home() {
         </motion.span>{" "}
         background graphics
       </div>
+
+      {/* Glowing light  */}
+      <motion.div
+        className="glowing-line absolute bottom-0 w-screen 
+      h-1 bg-green-400 shadow-2xl shadow-green-200"
+      ></motion.div>
     </div>
   );
 }
