@@ -16,7 +16,7 @@ import DisabledGraphics from "../routes/DisabledGraphics";
 
 import { motion } from "framer-motion";
 import CircleComponent from "../components/CircleComponent";
-import { dragContext } from "../utils/context";
+import { dragContext, expandContext } from "../utils/context";
 
 function Home() {
   //Particles Load
@@ -32,6 +32,7 @@ function Home() {
   const [start, setStart] = useState<boolean>(false);
   //context state
   const { isDragging } = useContext(dragContext);
+  const {isExpanding} = useContext(expandContext);
 
   //particles
   const [isParticles, setIsParticles] = useState<boolean>(true);
@@ -127,7 +128,7 @@ function Home() {
       </motion.div>
 
       {/* expanding transition animation element  */}
-      <motion.div animate={{ width: 200, height: 200 }} 
+      <motion.div animate={{ width: isExpanding? 200: 0, height: isExpanding? 200 : 0 }} 
       className="w-0 h-0 expanding-animation-element absolute bottom-0"></motion.div>
     </div>
   );
