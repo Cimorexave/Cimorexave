@@ -125,6 +125,10 @@ function Home() {
           className="glowing-shadow bg-green-800 w-screen h-5 "
         ></motion.div>
       </motion.div>
+
+      {/* expanding transition animation element  */}
+      <motion.div animate={{ width: 200, height: 200 }} 
+      className="w-0 h-0 expanding-animation-element absolute bottom-0"></motion.div>
     </div>
   );
 }
