@@ -4,7 +4,7 @@ import React, { useContext, useState } from "react";
 
 //framer motion 
 import { motion } from "framer-motion";
-import { dragContext } from "../utils/context";
+import { dragContext, expandContext } from "../utils/context";
 
 //interface
 interface CCPropsInterface {
@@ -18,12 +18,11 @@ const CircleComponent = (props: CCPropsInterface) => {
   //States
   //Context
   const { isDragging, setIsDragging } = useContext(dragContext);
+  const {isExpanding, setIsExpanding} = useContext(expandContext);
 
-  //Expanded 
-  const [isExpanded, setIsExpanded] = useState<boolean>(false)
   return (
     <motion.div
-      onViewportLeave={() => { setIsExpanded(true); console.log('Exited Viewport') }}
+      onViewportLeave={() => { setIsExpanding(true) }}
       drag
       initial={{ scale: 0 }}
       whileHover={{ scale: 1.1, cursor: "pointer" }}
