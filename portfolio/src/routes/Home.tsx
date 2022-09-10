@@ -128,8 +128,8 @@ function Home() {
       </motion.div>
 
       {/* expanding transition animation element  */}
-      <motion.div animate={{ width: isExpanding? 200: 0, height: isExpanding? 200 : 0 }} 
-      className="w-0 h-0 expanding-animation-element absolute bottom-0"></motion.div>
+      <motion.div animate={{ width: isExpanding? 5000: 0, height: isExpanding? 2000 : 0, transitionDuration: "2000ms" }}
+      className="w-0 h-0 expanding-animation-element absolute bottom-0 bg-red-500"></motion.div>
     </div>
   );
 }
