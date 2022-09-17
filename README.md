@@ -8,7 +8,7 @@ Feel free to contact me. Have a good day! 🌱
 <ul>
   <li> 👨‍💻 Languanges: TypeScript/JavaScript, C#, C++ </li> <!-- Python --> 
   <li> ⚙️ Frameworks: ReactJS, NextJS, NodeJS, ExpressJS, ElectronJS </li> <!-- Firebase -->
-  <li> 👁️ Styling: CSS, Tailwind, Material UI, Framer Motion </li>   
+  <li> 👁️ Styling: CSS, Tailwind, Material UI, Framer Motion </li>
   <li> 🌱 Database: PostgreSQL, TypeORM, Prisma, MongoDB </li>
   <li> ⚡ Other Technologies: Docker, Postman  </li> <!-- LinuxOS(CLI), Redis, Socket.io, ThreeJS, gRPC, GraphQL, Apollo, Kavenger, puppeteer, Jest, Cypress, React Testing Library, GSAP, NuxtJS, VueJS, VueX, VueRouter, ElementUI, Vuetify -->
   <!--  Concepts: Microservices, Clean Code, MVC, Design Patterns, OOP, DTO, CDN, CI/CD, Unit Testing, E2E Testing --> 
