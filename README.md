@@ -9,8 +9,8 @@ Feel free to contact me. Have a good day! 🌱
   <li> 👨‍💻 Languanges: TypeScript/JavaScript, C#, C++ </li> <!-- Python --> 
   <li> ⚙️ Frameworks: ReactJS, NextJS, NuxtJS, ExpressJS, ElectronJS </li> <!-- Firebase -->
   <li> 👁️ Styling: CSS, Tailwind, Material UI, Framer Motion </li>
-  <li> 🌱 Database: PostgreSQL, TypeORM, Prisma, MongoDB </li>
-  <li> ⚡ Other Technologies: Docker, Postman  </li> <!-- LinuxOS(CLI), Redis, Socket.io, ThreeJS, gRPC, GraphQL, Apollo, Kavenger, puppeteer, Jest, Cypress, React Testing Library, GSAP, NuxtJS, VueJS, VueX, VueRouter, ElementUI, Vuetify -->
+  <li> 🌱 Database: PostgreSQL, TypeORM, Prisma </li>
+  <li> ⚡ Other Technologies: Docker  </li> <!-- LinuxOS(CLI), Redis, Socket.io, ThreeJS, gRPC, GraphQL, Apollo, Kavenger, puppeteer, Jest, Cypress, React Testing Library, GSAP, NuxtJS, VueJS, VueX, VueRouter, ElementUI, Vuetify -->
   <!--  Concepts: Microservices, Clean Code, MVC, Design Patterns, OOP, DTO, CDN, CI/CD, Unit Testing, E2E Testing --> 
 </ul>
 <p align="right" display='flex' gap='8' style={{ paddingRight: "2em" }}>
