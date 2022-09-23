@@ -6,7 +6,7 @@ Feel free to contact me. Have a good day! 🌱
 
 ## Skills
 <ul>
-  <li> 👨‍💻 Languanges: TypeScript/JavaScript, C#, C++ </li> <!-- Python --> 
+  <li> 👨‍💻 Languanges: TypeScript/JavaScript, C#, C++ </li> <!-- Python -->
   <li> ⚙️ Frameworks: ReactJS, NextJS, NuxtJS, ExpressJS, ElectronJS </li> <!-- Firebase -->
   <li> 👁️ Styling: CSS, Tailwind, Material UI, Framer Motion </li>
   <li> 🌱 Database: PostgreSQL, TypeORM, Prisma </li>
