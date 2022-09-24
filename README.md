@@ -1,16 +1,16 @@
 ### Hi there 👋 My Name is Sina Sadeqi 
 
 Starting Computer Network Engineering M.Sc this September; I'm a Full-Stack Software Developer specialized in Front-End Development. <br>
-Working on Algorithmic Trading and Machine Learning right now... <br>
+Working on Machine Learning right now... <br>
 Feel free to contact me. Have a good day! 🌱
 
 ## Skills
 <ul>
-  <li> 👨‍💻 Languanges: TypeScript/JavaScript, C#, C++ </li> <!-- Golang, Python --> 
-  <li> ⚙️ Frameworks: ReactJS, NextJS, NodeJS, ExpressJS, ElectronJS </li> <!-- Firebase -->
-  <li> 👁️ Styling: CSS, Tailwind, Material UI, Framer Motion </li>   
-  <li> 🌱 Database: PostgreSQL, TypeORM, Prisma, MongoDB </li>
-  <li> ⚡ Other Technologies: Docker, Postman  </li> <!-- LinuxOS(CLI), Redis, Socket.io, ThreeJS, gRPC, GraphQL, Apollo, Kavenger, puppeteer, Jest, Cypress, React Testing Library, GSAP, NuxtJS, VueJS, VueX, VueRouter, ElementUI, Vuetify -->
+  <li> 👨‍💻 Languanges: TypeScript/JavaScript, C#, C++ </li> <!-- Python -->
+  <li> ⚙️ Frameworks: ReactJS, NextJS, NuxtJS, ExpressJS, ElectronJS </li> <!-- Firebase -->
+  <li> 👁️ Styling: CSS, Tailwind, Material UI, Framer Motion </li>
+  <li> 🌱 Database: PostgreSQL, TypeORM, Prisma </li>
+  <li> ⚡ Other Technologies: Docker  </li> <!-- LinuxOS(CLI), Redis, Socket.io, ThreeJS, gRPC, GraphQL, Apollo, Kavenger, puppeteer, Jest, Cypress, React Testing Library, GSAP, NuxtJS, VueJS, VueX, VueRouter, ElementUI, Vuetify -->
   <!--  Concepts: Microservices, Clean Code, MVC, Design Patterns, OOP, DTO, CDN, CI/CD, Unit Testing, E2E Testing --> 
 </ul>
 <p align="right" display='flex' gap='8' style={{ paddingRight: "2em" }}>
@@ -22,7 +22,6 @@ Feel free to contact me. Have a good day! 🌱
   <img src="https://seeklogo.com/images/N/npm-logo-01B8642EDD-seeklogo.com.png" alt="NPM" width="55" height="55"/>
   <img src="https://seeklogo.com/images/P/PostgreSQL_Inc-logo-09A7EFEB72-seeklogo.com.png" alt="PostgreSQL" width="55" height="55" margin="5"/>
   <img src="https://seeklogo.com/images/T/typeorm-logo-F243B34DEE-seeklogo.com.png" alt="TypeORM" width="65" height="55" margin="5"/>
-  <img src="https://seeklogo.com/images/D/docker-logo-CF97D0124B-seeklogo.com.png" alt="Docker" width="70" height="60" margin="5"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
     
 </p>
