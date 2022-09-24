@@ -14,7 +14,7 @@ const ExpandingMenu = () => {
         height: isExpanding ? 2000 : 0,
         transitionDuration: "2000ms",
       }}
-      className="w-0 h-0 expanding-animation-element absolute bottom-0 bg-slate-800"
+      className="expanding-menu overflow-clip w-0 h-0 expanding-animation-element absolute bottom-0 bg-slate-800"
     ></motion.div>
   );
 };
