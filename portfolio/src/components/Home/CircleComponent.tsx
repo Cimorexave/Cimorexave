@@ -4,7 +4,7 @@ import React, { useContext, useState } from "react";
 
 //framer motion 
 import { motion } from "framer-motion";
-import { dragContext, expandContext } from "../utils/context";
+import { dragContext, expandContext } from "../../utils/context";
 
 //interface
 interface CCPropsInterface {

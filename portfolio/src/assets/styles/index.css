@@ -5,7 +5,7 @@
 @font-face {
     font-family: "SourceCodePro";
     src: local("SourceCodePro"),
-    url("./assets/SourceCodePro-VariableFont_wght.ttf") format("truetype");
+    url("../SourceCodePro-VariableFont_wght.ttf") format("truetype");
     font-weight: normal;
 }
 * {

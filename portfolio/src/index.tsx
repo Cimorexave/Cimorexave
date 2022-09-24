@@ -1,6 +1,6 @@
 //import react utils
 import ReactDOM from 'react-dom';
-import './index.css';
+import './assets/styles/index.css';
 import App from './App';
 
 //import font
