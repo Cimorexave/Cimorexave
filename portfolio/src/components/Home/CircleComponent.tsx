@@ -25,9 +25,9 @@ const CircleComponent = (props: CCPropsInterface) => {
       onViewportLeave={() => { setIsExpanding(true) }}
       drag
       initial={{ scale: 0 }}
-      whileHover={{ scale: 1.1, cursor: "pointer" }}
+      whileHover={{ scale: 1.1, cursor: "grab" }}
       animate={{ scale: props.start ? 1 : 0 }}
-      whileDrag={{ scale: 0.9 }}
+      whileDrag={{ scale: 0.9, cursor: "grabbing" }}
       dragConstraints={props.circleConstraints}
       onDrag={() =>{ setIsDragging(true); console.log(isDragging)}}
       onDragEnd={() => {setIsDragging(false)}}

@@ -42,7 +42,6 @@ function Home() {
   const [start, setStart] = useState<boolean>(false);
   //context 
   const { isDragging } = useContext(dragContext);
-  const { isExpanding } = useContext(expandContext);
 
   //particles
   const [isParticles, setIsParticles] = useState<boolean>(true);
