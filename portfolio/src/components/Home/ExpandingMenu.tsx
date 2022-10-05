@@ -2,6 +2,7 @@ import React, { useContext } from "react";
 import { motion } from "framer-motion";
 import { expandContext } from "../../utils/context";
 import "../../assets/styles/expandingmenu.css";
+import Info from "../Information/Info";
 
 const ExpandingMenu = () => {
   //states
@@ -17,7 +18,9 @@ const ExpandingMenu = () => {
             transitionDuration: "1000ms",
           }}
           className="expanding-menu overflow-hidden w-0 h-0 absolute bottom-0 bg-slate-800"
-        ></motion.div>
+        >
+          <Info  />
+        </motion.div>
       )}
     </div>
   );
