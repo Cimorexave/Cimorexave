@@ -10,7 +10,7 @@ Feel free to contact me. Have a good day! 🌱
   <li> ⚙️ Frameworks: ReactJS, NextJS, NuxtJS, ExpressJS, ElectronJS, .NET Core </li> <!-- Firebase -->
   <li> 👁️ Styling: CSS, Tailwind, Material UI, Framer Motion </li>
   <li> 🌱 Database: PostgreSQL, TypeORM, Prisma </li>
-  <li> ⚡ Other Technologies: Docker  </li> <!-- LinuxOS(CLI), Redis, Socket.io, gRPC, GraphQL, Apollo, Kavenger, puppeteer, Jest, Cypress, React Testing Library, GSAP, VueJS, VueX, VueRouter, ElementUI, Vuetify -->
+  <!-- LinuxOS(CLI), Redis, Socket.io, gRPC, GraphQL, Apollo, Kavenger, puppeteer, Jest, Cypress, React Testing Library, GSAP, VueJS, VueX, VueRouter, ElementUI, Vuetify -->
   <!--  Concepts: Microservices, Clean Code, MVC, Design Patterns, OOP, CDN, CI/CD, Unit Testing, --> 
 </ul>
 <p align="right" >
