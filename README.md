@@ -1,16 +1,16 @@
 ### Hi there 👋 My Name is Sina Sadeqi 
 
 Studying Computer Network Engineering M.Sc; I'm a Full-Stack Software Developer specialized in Front-End Development. <br>
-Working on Rust / WASM right now... <br>
+🔭 Currently working on Rust / WASM right now... <br>
 Feel free to contact me. Have a good day! 🌱
 
 ## Prefered Stack
 <ul>
-  <li> 👨‍💻 Languanges: TypeScript/JavaScript, C#, C++ </li> <!-- Python -->
-  <li> ⚙️ Frameworks: ReactJS, NextJS, NuxtJS, ExpressJS, ElectronJS, .NET Core </li> <!-- Firebase -->
-  <li> 👁️ Styling: CSS, Tailwind, Material UI, Framer Motion </li>
-  <li> 🌱 Database: PostgreSQL, TypeORM, Prisma </li>
-  <!-- LinuxOS(CLI), Redis, Socket.io, gRPC, GraphQL, Apollo, Kavenger, puppeteer, Jest, Cypress, React Testing Library, GSAP, VueJS, VueX, VueRouter, ElementUI, Vuetify -->
+  <li> 👨‍💻 Languanges: TypeScript/JavaScript (Web build case), C# (OOP case), Rust (low level and performant case), Python (data analysis and machine learning case) </li>
+  <li> ⚙️ Frameworks: React.js, Vue.js Next.js, Nuxt.js, Express.js, Electron.js, .NET Core </li>
+  <li> 👁️ Styling: CSS, Tailwind, Material UI, Vuetify, Flowbite, Framer Motion </li>
+  <li> 🌱 Database: PostgreSQL, MongoDB, TypeORM, Prisma </li>
+  <!-- LinuxOS(CLI), Redis, Socket.io, gRPC, GraphQL, Apollo, Kavenger, puppeteer, Jest, Cypress, React Testing Library, GSAP -->
   <!--  Concepts: Microservices, Clean Code, MVC, Design Patterns, OOP, CDN, CI/CD, Unit Testing, --> 
 </ul>
 <p align="right" >
