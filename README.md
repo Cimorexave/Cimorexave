@@ -6,7 +6,7 @@ Feel free to contact me. Have a good day! 🌱
 
 ## Prefered Stack
 <ul>
-  <li> 👨‍💻 Languanges: TypeScript/JavaScript (Web build case), C# (OOP case), Rust (low level and performant case), Python (data analysis and machine learning case) </li>
+  <li> 👨‍💻 Languanges: TypeScript/JavaScript (main web build use case), C# (OOP use case), Rust (low level and performant use case), Python (data analysis and machine learning use case) </li>
   <li> ⚙️ Frameworks: React.js, Vue.js Next.js, Nuxt.js, Express.js, Electron.js, .NET Core </li>
   <li> 👁️ Styling: CSS, Tailwind, Material UI, Vuetify, Flowbite, Framer Motion </li>
   <li> 🌱 Database: PostgreSQL, MongoDB, TypeORM, Prisma </li>
