@@ -4,7 +4,7 @@ Studying Computer Network Engineering M.Sc; I'm a Full-Stack Software Developer 
 Working on Rust / WASM right now... <br>
 Feel free to contact me. Have a good day! 🌱
 
-## Skills
+## Prefered Stack
 <ul>
   <li> 👨‍💻 Languanges: TypeScript/JavaScript, C#, C++ </li> <!-- Python -->
   <li> ⚙️ Frameworks: ReactJS, NextJS, NuxtJS, ExpressJS, ElectronJS, .NET Core </li> <!-- Firebase -->
