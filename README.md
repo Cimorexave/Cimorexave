@@ -29,7 +29,7 @@ Feel free to contact me. Have a good day! 🌱
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cimorexave&hide=html&theme=dracula)
+![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Cimorexave&theme=dracula)
 
 </div>
 
