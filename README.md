@@ -26,17 +26,17 @@ Feel free to contact me. Have a good day! 🌱
 </p>
 
 ## Most Used Languages
-<h4 align="left">
+<div align="left">
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Cimorexave&count_private=true&theme=tokyonight&showicons=true)()
+![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Cimorexave&count_private=true&theme=tokyonight&showicons=true)
 
-</h4>
+</div>
 
-<h4 align="right">
+<div align="right">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cimorexave&hide=html&theme=dracula)
 
-</h4>
+</div>
 
 
 <!--
