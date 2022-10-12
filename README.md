@@ -26,13 +26,8 @@ Feel free to contact me. Have a good day! 🌱
 </p>
 
 ## Most Used Languages
-<div align="left">
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Cimorexave&count_private=true&theme=tokyonight&showicons=true)
-
-</div>
-
-<div align="right">
+<div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cimorexave&hide=html&theme=dracula)
 
