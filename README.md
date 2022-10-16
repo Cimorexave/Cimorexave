@@ -12,7 +12,7 @@ Feel free to contact me. Have a good day! 🌱
   <li> 🌱 Database: PostgreSQL, MongoDB, TypeORM, Prisma </li>
   <!-- LinuxOS(CLI), Redis, Socket.io, gRPC, GraphQL, Apollo, Kavenger, puppeteer, Jest, Cypress, React Testing Library, GSAP -->
   <!--  Concepts: Microservices, Clean Code, MVC, Design Patterns, OOP, CDN, CI/CD, Unit Testing, --> 
-</ul>
+</ul> 
 <p align="right" >
   <img src="https://seeklogo.com/images/R/rust-logo-E6517C759B-seeklogo.com.png" alt="Rust" width="60 height="60/>
   <img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" alt="TypeScript" width="55" height="55"/>
