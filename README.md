@@ -1,7 +1,7 @@
 ### Hi there 👋 My Name is Sina Sadeqi 
 
 Studying Computer Network Engineering M.Sc; I'm a Full-Stack Software Developer specialized in Front-End Development. <br>
-🔭 Currently working on Rust / WASM right now... <br>
+🔭 Currently working on Rust / WASM right now... <br> 
 Feel free to contact me. Have a good day! 🌱 
 
 ## Prefered Stack
