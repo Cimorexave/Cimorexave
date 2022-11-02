@@ -6,14 +6,16 @@ Feel free to contact me. Have a good day! 🌱
 
 ## Prefered Stack
 <ul>
-  <li> 👨‍💻 Languanges: TypeScript/JavaScript, C#, Rust, Python </li>
+  <li> 👨‍💻 Languanges: TypeScript/JavaScript, C#, Rust, Python, BASH </li>
   <li> ⚙️ Frameworks: React.js, Vue.js Next.js, Nuxt.js, Express.js, Electron.js, .NET Core </li>
   <li> 👁️ Styling: CSS, Tailwind, Material UI, Vuetify, Flowbite, Framer Motion </li>
   <li> 🌱 Database: PostgreSQL, MongoDB, TypeORM, Prisma </li>
+  <li> ⚡ Other Technologies: Docker, Linux (KaiOS, Ubuntu) </li>
   <!-- LinuxOS(CLI), Redis, Socket.io, gRPC, GraphQL, Apollo, Kavenger, puppeteer, Jest, Cypress, React Testing Library, GSAP -->
   <!--  Concepts: Microservices, Clean Code, MVC, Design Patterns, OOP, CDN, CI/CD, Unit Testing, --> 
 </ul> 
 <p align="right" >
+  <img src="https://seeklogo.com/images/B/bash-logo-BF4F6893D9-seeklogo.com.png" alt="BASH" width="55" height="55"/>
   <img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" alt="TypeScript" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="55" height="55"/>
   <img src="https://seeklogo.com/images/N/nodejs-logo-065257DE24-seeklogo.com.png" alt="Nodejs" width="75" height="55"/> 
