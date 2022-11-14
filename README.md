@@ -12,7 +12,7 @@ Feel free to contact me. Have a good day! 🌱
   <li> 🌱 Database: PostgreSQL, MongoDB, TypeORM, Prisma </li>
   <li> ⚡ Other Technologies: Docker, Linux (KaliOS, Ubuntu) </li> 
   <!-- LinuxOS(CLI), Redis, Socket.io, gRPC, GraphQL, Apollo, Kavenger, puppeteer, Jest, Cypress, React Testing Library, GSAP -->
-  <!--  Concepts: Microservices, Clean Code, MVC, Design Patterns, OOP, CDN, CI/CD, Unit Testing, -->  
+  <!--  Concepts: Microservices, Clean Code, MVC, Design Patterns, OOP, CDN, CI/CD, Unit Testing, -->
 </ul> 
 <p align="right" > 
   
