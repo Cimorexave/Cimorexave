@@ -29,7 +29,7 @@ Feel free to contact me. Have a good day! 🌱
 
 ## Most Used Languages
 
-<div align="center">
+<div align="center"> 
 
 ![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Cimorexave&langs_count=10&theme=dracula)
 
