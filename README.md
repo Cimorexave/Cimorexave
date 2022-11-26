@@ -4,13 +4,13 @@ Studying Computer Network Engineering M.Sc; I'm a Full-Stack Software Developer 
 🔭 Currently working on Linux / BASH scripting... <br>
 Feel free to contact me. Have a good day! 🌱
 
-## Prefered Stack
+## Skills
 <ul>
   <li> 👨‍💻 Languanges: TypeScript/JavaScript, C#, Rust, Python, BASH </li>
   <li> ⚙️ Frameworks: React.js, Vue.js Next.js, Nuxt.js, Express.js, Electron.js, .NET Core </li> 
   <li> 👁️ Styling: CSS, Tailwind, Material UI, Vuetify, Flowbite, Framer Motion </li> 
   <li> 🌱 Database: PostgreSQL, MongoDB, TypeORM, Prisma </li>
-  <li> ⚡ Other Technologies: Docker, Linux (Ubuntu, Kali) </li> 
+  <li> ⚡ Other Technologies: Docker, Linux </li> 
   <!-- LinuxOS(CLI), Redis, Socket.io, gRPC, GraphQL, Apollo, Kavenger, puppeteer, Jest, Cypress, React Testing Library, GSAP -->
   <!--  Concepts: Microservices, Clean Code, MVC, Design Patterns, OOP, CDN, CI/CD, Unit Testing, --> 
 </ul> 
@@ -31,7 +31,7 @@ Feel free to contact me. Have a good day! 🌱
 
 <div align="center"> 
 
-![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Cimorexave&langs_count=10&theme=dracula)
+![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Cimorexave&langs_count=5&theme=gruvbox_light)
 
 </div>
 
