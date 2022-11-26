@@ -29,8 +29,8 @@ Feel free to contact me. Have a good day! 🌱
 
 ## My Github Stats
 
-<div align="center" >
-<!-- ![My GitHub Stats](https:///github-readme-stats.vercel.app/api?username=cimorexave&count_private=true&show_icons=true&them=highcontrast) <br> -->
+<div >
+![My GitHub Stats](https:///github-readme-stats.vercel.app/api?username=cimorexave&count_private=true&show_icons=true&them=highcontrast)
 ![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Cimorexave&langs_count=5&theme=highcontrast)
 
 </div>
