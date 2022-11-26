@@ -27,10 +27,10 @@ Feel free to contact me. Have a good day! 🌱
     
 </p> 
 
-## Most Used Languages
+## My Github Stats
 
-<div align="center"> 
-
+<div align="right"> 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=cimorexave&count_private=true&show_icon=true)
 ![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Cimorexave&langs_count=5&theme=highcontrast)
 
 </div>
