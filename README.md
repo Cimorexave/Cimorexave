@@ -29,8 +29,8 @@ Feel free to contact me. Have a good day! 🌱
 
 ## My Github Stats
 
-<div >
-![My GitHub Stats](https:///github-readme-stats.vercel.app/api?username=cimorexave&count_private=true&show_icons=true&them=highcontrast)(https://github.com/anuraghazra/github-readme-stats)
+<div align="center" >
+<!-- ![My GitHub Stats](https:///github-readme-stats.vercel.app/api?username=cimorexave&count_private=true&show_icons=true&them=highcontrast)(https://github.com/anuraghazra/github-readme-stats) -->
 ![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Cimorexave&langs_count=5&theme=highcontrast)
 
 </div>
