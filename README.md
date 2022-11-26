@@ -30,7 +30,7 @@ Feel free to contact me. Have a good day! 🌱
 ## My Github Stats
 
 <div > 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=cimorexave&count_private=true&show_icon=true&them=highcontrast) <br>
+![My GitHub stats](https:///github-readme-stats.vercel.app/api?username=cimorexave&count_private=true&show_icons=true&them=highcontrast) <br>
 ![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Cimorexave&langs_count=5&theme=highcontrast)
 
 </div>
