@@ -6,8 +6,8 @@ Feel free to contact me. Have a good day! 🌱
 
 ## Skills
 <ul>
-  <li> 👨‍💻 Languanges: TypeScript/JavaScript, C#, Rust, Python, BASH </li>
-  <li> ⚙️ Frameworks: React.js, Vue.js Next.js, Nuxt.js, Express.js, Electron.js, .NET Core </li>
+  <li> 👨‍💻 Languanges: TypeScript/JavaScript, C#, C, Rust, Python, BASH </li>
+  <li> ⚙️ Frameworks: React.js, Vue.js, Next.js, Nuxt.js, Express.js, Electron.js, .NET Core </li>
   <li> 👁️ Styling: CSS, Tailwind, Material UI, Vuetify, Flowbite, Framer Motion </li>
   <li> 🌱 Database: PostgreSQL, MongoDB, TypeORM, Prisma </li>
   <li> ⚡ Other Technologies: Docker, Linux </li> 
@@ -20,11 +20,11 @@ Feel free to contact me. Have a good day! 🌱
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="55" height="55"/>
   <img src="https://seeklogo.com/images/N/nuxt-logo-64E0472AA8-seeklogo.com.png" alt="Nuxt" width="65" height="55"/> 
   <img src="https://seeklogo.com/images/N/nodejs-logo-065257DE24-seeklogo.com.png" alt="Nodejs" width="75" height="55"/> 
-  <img src="https://seeklogo.com/images/N/npm-logo-01B8642EDD-seeklogo.com.png" alt="NPM" width="55" height="55"/>
+  <!-- <img src="https://seeklogo.com/images/N/npm-logo-01B8642EDD-seeklogo.com.png" alt="NPM" width="55" height="55"/> -->
   <img src="https://seeklogo.com/images/P/PostgreSQL_Inc-logo-09A7EFEB72-seeklogo.com.png" alt="PostgreSQL" width="55" height="55" margin="5"/>
   <img src="https://seeklogo.com/images/T/typeorm-logo-F243B34DEE-seeklogo.com.png" alt="TypeORM" width="65" height="55" margin="5"/> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
-  <img src="https://seeklogo.com/images/B/bash-logo-BF4F6893D9-seeklogo.com.png" alt="BASH" width="55" height="55"/>
+  <!-- <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> -->
+  <!-- <img src="https://seeklogo.com/images/B/bash-logo-BF4F6893D9-seeklogo.com.png" alt="BASH" width="55" height="55"/> -->
     
 </p> 
 
