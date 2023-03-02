@@ -6,7 +6,7 @@ Feel free to contact me. Have a good day! 🌱
 
 ## Skills
 <ul>
-  <li> 👨‍💻 Languanges: TypeScript/JavaScript, C#, C, Rust, Python, BASH </li> 
+  <li> 👨‍💻 Languanges: TypeScript/JavaScript, C#, C, Rust, Python, BASH </li>
   <li> ⚙️ Frameworks: React.js, Vue.js, Next.js, Nuxt.js, Express.js, Electron.js, .NET Core </li> 
   <li> 👁️ Styling: CSS, Tailwind, Material UI, Vuetify, Flowbite, Framer Motion </li> 
   <li> 🌱 Database: PostgreSQL, MongoDB, TypeORM, Prisma </li> 
