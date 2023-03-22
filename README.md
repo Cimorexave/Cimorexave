@@ -8,7 +8,7 @@ Feel free to contact me. Have a good day! 🌱
 <ul>
   <li> 👨‍💻 Languanges: TypeScript/JavaScript, C#, C, Rust, Python, BASH </li>
   <li> ⚙️ Frameworks: React.js, Vue.js, Next.js, Nuxt.js, Express.js, Electron.js, .NET Core </li>
-  <li> 👁️ Styling: CSS, Tailwind, Material UI, Vuetify, Flowbite, Framer Motion </li> 
+  <li> 👁️ Styling: CSS, Tailwind, Material UI, Vuetify, Flowbite, Framer Motion </li>
   <li> 🌱 Database: PostgreSQL, MongoDB, TypeORM, Prisma </li>
   <li> ⚡ Other Technologies: Docker, Linux </li> 
   <!-- LinuxOS(CLI), Redis, Socket.io, gRPC, GraphQL, Apollo, Kavenger, puppeteer, Jest, Cypress, React Testing Library, GSAP -->
