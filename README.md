@@ -1,7 +1,7 @@
 ### Hi there 👋 My Name is Sina Sadeqi 
 
 Studying Computer Network Engineering M.Sc; I'm a Full-Stack Software Developer specialized in Front-End Development. <br>
-🔭 Currently working with Electron + Vue3... <br>
+🔭 Currently working with (Electron + Vue3), ASP.NET Core MVC... <br>
 Feel free to contact me. Have a good day! 🌱
 
 ## Skills
