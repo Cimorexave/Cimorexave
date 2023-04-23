@@ -1,18 +1,18 @@
 ### Hi there 👋 My Name is Sina Sadeqi 
 
 Studying Computer Network Engineering M.Sc; I'm a Full-Stack Software Developer specialized in Front-End Development. <br>
-🔭 Currently working with (Electron + Vue3), ASP.NET Core MVC... <br>
+<strong>🔭 Currently working with (Electron + TypeScritp,Vue3), .NET Core...</strong> <br>
 Feel free to contact me. Have a good day! 🌱
 
 ## Skills
 <ul>
-  <li> 👨‍💻 Languanges: TypeScript/JavaScript, C#, C, Rust, Python, BASH </li>
-  <li> ⚙️ Frameworks: React.js, Vue.js, Next.js, Nuxt.js, Express.js, Electron.js, .NET Core </li> 
-  <li> 👁️ Styling: CSS, Tailwind, Material UI, Vuetify, Flowbite, Framer Motion </li> 
-  <li> 🌱 Database: PostgreSQL, MongoDB, TypeORM, Prisma </li> 
-  <li> ⚡ Other Technologies: Docker, Linux </li>  
+  <li> 👨‍💻 Languanges: TypeScript/JavaScript, C#, BASH, Rust </li>
+  <li> ⚙️ Frameworks: React, Vue(3,2), Next, Nuxt3, Nestjs, Express, Electron, .NET Core (ASP.NET, WinForms, WPF) </li> 
+  <li> 👁️ Styling: CSS, TailwindCSS, Material UI, Flowbite, Framer Motion </li> 
+  <li> 🌱 Database: PostgreSQL, MongoDB, Prisma, TypeORM </li> 
+  <li> ⚡ Other Technologies: Docker, Linux </li> 
   <!-- LinuxOS(CLI), Redis, Socket.io, gRPC, GraphQL, Apollo, Kavenger, puppeteer, Jest, Cypress, React Testing Library, GSAP -->
-  <!--  Concepts: Microservices, Clean Code, MVC, Design Patterns, OOP, CDN, CI/CD, Unit Testing, -->
+  <!--  Concepts: Microservices, Clean Code, Design Patterns, OOP, CDN, CI/CD, Unit Testing, -->
 </ul> 
 <p align="right" >
   
