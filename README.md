@@ -32,9 +32,12 @@ Feel free to contact me. Have a good day! 🌱
 
 ## My Github Stats
 
-<div align="center" >
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cimorexave&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
-
+<div align="left" >
+  <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cimorexave&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)-->
+  ![Cimorexave's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cimorexave&count_private=true&show_icons=true)
+</div>
+<div align="right" >
+  
 </div>
 
 
