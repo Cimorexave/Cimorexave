@@ -34,10 +34,10 @@ Feel free to contact me. Have a good day! 🌱
 
 <div align="left" >
   <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cimorexave&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)-->
-  (https://github-readme-stats.vercel.app/api?username=Cimorexave&count_private=true&show_icons=true)
+  [!(https://github-readme-stats.vercel.app/api?username=Cimorexave&count_private=true&show_icons=true)]
 </div>
 <div align="right" >
-  [!(https://github-readme-stats.vercel.app/api/top-langs/?username=Cimorexave&hide=html,CSS&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
+  [!(https://github-readme-stats.vercel.app/api/top-langs/?username=Cimorexave&hide=html,CSS&langs_count=7)]
 </div>
 
 
