@@ -31,14 +31,14 @@ Feel free to contact me. Have a good day! 🌱
 </p> 
 
 ## My Github Stats
-
+<div>
 <div align="left" >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cimorexave&hide=html,CSS"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cimorexave&hide=html,CSS&langs_count=8&theme=tokyo"/>
 </div>
 <div align="right" >
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Cimorexave&count_private=true&theme=tokyo"/>
 </div>
-
+</div>
 
 
 <!--
