@@ -37,7 +37,7 @@ Feel free to contact me. Have a good day! 🌱
   (https://github-readme-stats.vercel.app/api?username=Cimorexave&count_private=true&show_icons=true)
 </div>
 <div align="right" >
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cimorexave&hide=html,CSS&langs_count=7)](https://github.com/Cimorexave/github-readme-stats)
+  [!(https://github-readme-stats.vercel.app/api/top-langs/?username=Cimorexave&hide=html,CSS&langs_count=7)](https://github.com/Cimorexave/github-readme-stats)
 </div>
 
 
