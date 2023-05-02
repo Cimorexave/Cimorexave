@@ -33,7 +33,7 @@ Feel free to contact me. Have a good day! 🌱
 ## My Github Stats
 
 <div align="left" >
-  !(https://github-readme-stats.vercel.app/api?username=Cimorexave&count_private=true&show_icons=true)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cimorexave&hide=html,CSS"/>
 </div>
 <div align="right" >
   [!(https://github-readme-stats.vercel.app/api/top-langs/?username=Cimorexave&hide=html,CSS&langs_count=7)]
