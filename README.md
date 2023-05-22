@@ -32,10 +32,10 @@ Feel free to contact me. Have a good day! 🌱
 
 ## My Github Stats
 <div align="">
-<div align="left" >
+<div align="" >
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cimorexave&hide=html,CSS,SCSS&langs_count=8&theme=dracula&layout=compact"/>
 </div>
-<div align="right" >
+<div align="" >
   <img src="https://github-readme-stats.vercel.app/api?username=Cimorexave&count_private=true&theme=merko"/>
 </div>
 </div>
