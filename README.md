@@ -16,7 +16,7 @@ Feel free to contact me. Have a good day! 🌱
 </ul> 
 <p align="right" >
   
-  <img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" alt="TypeScript" width="55" height="55"/>
+  <img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" alt="TypeScript" width="55" height="55"/> 
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="55" height="55"/>
   <img src="https://seeklogo.com/images/N/nuxt-logo-64E0472AA8-seeklogo.com.png" alt="Nuxt" width="55" height="43"/>
   <img src="https://seeklogo.com/images/N/nodejs-logo-065257DE24-seeklogo.com.png" alt="Nodejs" width="75" height="55"/> 
