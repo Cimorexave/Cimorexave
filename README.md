@@ -11,7 +11,7 @@ Feel free to contact me. Have a good day! 🌱
   <li> 👁️ Styling: CSS, TailwindCSS, Material UI, Flowbite, Framer Motion </li> 
   <li> 🌱 Database: PostgreSQL, MongoDB, Prisma, TypeORM </li> 
   <li> ⚡ Other Technologies: Docker, Linux </li>
-  <!-- LinuxOS(CLI), Redis, Socket.io, gRPC, GraphQL, Apollo, Kavenger, puppeteer, Jest, Cypress, React Testing Library, GSAP --> 
+  <!-- LinuxOS(CLI), Redis, Socket.io, gRPC, GraphQL, Apollo, Kavenger, puppeteer, Jest, Cypress, React Testing Library, GSAP -->  
   <!--  Concepts: Microservices, Clean Code, Design Patterns, OOP, CDN, CI/CD, Unit Testing, -->
 </ul> 
 <p align="right" >
