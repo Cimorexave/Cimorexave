@@ -5,7 +5,7 @@ Studying Computer Network Engineering M.Sc; I'm a Full-Stack Software Developer 
 Feel free to contact me. Have a good day! 🌱
 
 ## Skills
-<ul>
+<ul> 
   <li> 👨‍💻 Languanges: TypeScript/JavaScript, C#, PHP, BASH</li> 
   <li> ⚙️ Frameworks: React, Vue(3,2), Next, Nuxt3, Nestjs, Express, Electron, .NET Core (ASP.NET, WinForms, ClassLib, xUnit), Laravel </li> 
   <li> 👁️ Styling: CSS, TailwindCSS, Material UI, Flowbite, Framer Motion </li> 
