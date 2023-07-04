@@ -18,9 +18,9 @@ Feel free to contact me. Have a good day! 🌱
   
   <img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" alt="TypeScript" width="55" height="55"/> 
   <img src="https://seeklogo.com/images/N/nuxt-logo-64E0472AA8-seeklogo.com.png" alt="Nuxt" width="55" height="43"/>
-  <img src="https://www.freepnglogos.com/uploads/logo-php-png/php-server-integration-wysiwyg-html-editor-froala-10.png" alt="php" width="75" height="55"/> 
+  <img src="https://www.freepnglogos.com/uploads/logo-php-png/php-server-integration-wysiwyg-html-editor-froala-10.png" alt="php" width="55" height="55"/> 
   <img src="https://seeklogo.com/images/P/PostgreSQL_Inc-logo-09A7EFEB72-seeklogo.com.png" alt="PostgreSQL" width="55" height="55" margin="5"/>
-  <img src="https://egghead.io/q/prisma" alt="prisma" width="55" height="55" margin="5"/>
+  <img src="[https://egghead.io/q/prisma](https://vecta.io/symbols/261/databases/35/prisma)" alt="prisma" width="55" height="55" margin="5"/>
   <img src="https://seeklogo.com/images/M/microsoft-net-framework-logo-B9BA1A3DA1-seeklogo.com.png" alt=".NET" width="55" height="55" margin="5"/>
   <img src="https://seeklogo.com/images/B/bash-logo-BF4F6893D9-seeklogo.com.png" alt="BASH" width="55" height="55"/>
     
