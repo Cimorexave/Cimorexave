@@ -6,7 +6,7 @@ Feel free to contact me. Have a good day! 🌱
 
 ## Skills
 <ul> 
-  <li> 👨‍💻 Languanges: TypeScript/JavaScript, C#, PHP, BASH</li> 
+  <li> 👨‍💻 Languanges: TypeScript/JavaScript, C#, C, PHP</li> 
   <li> ⚙️ Frameworks: React, Vue(3,2), Next, Nuxt3, Nestjs, Express, Electron, .NET Core (ASP.NET, WinForms, ClassLib, xUnit), Laravel </li> 
   <li> 👁️ Styling: CSS, TailwindCSS, Material UI, Flowbite, Framer Motion </li> 
   <li> 🌱 Database: PostgreSQL, MongoDB, Prisma, TypeORM </li>
@@ -21,7 +21,7 @@ Feel free to contact me. Have a good day! 🌱
   <img src="https://www.freepnglogos.com/uploads/logo-php-png/php-integreren-sie-ihren-regiondo-ticketshop-ihre-webseite-15.png" alt="php" width="75" height="55"/>
   <img src="https://seeklogo.com/images/P/PostgreSQL_Inc-logo-09A7EFEB72-seeklogo.com.png" alt="PostgreSQL" width="55" height="55" margin="5"/>
   <img src="https://seeklogo.com/images/M/microsoft-net-framework-logo-B9BA1A3DA1-seeklogo.com.png" alt=".NET" width="55" height="55" margin="5"/>
-  <img src="https://seeklogo.com/images/B/bash-logo-BF4F6893D9-seeklogo.com.png" alt="BASH" width="55" height="55"/>
+  <img src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png" alt="BASH" width="55" height="55"/>
     
 </p> 
 
