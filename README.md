@@ -1,7 +1,7 @@
 ### Hi there 👋 My Name is Sina Sadeqi 
 
 Studying Computer Network Engineering M.Sc; I'm a Full-Stack Software Developer specialized in Front-End Development. <br>
-<strong>🔭 Currently working with <!--(Electron + TypeScritp,Vue3), -->C (Embedded Systems), C# .NET Core...</strong> <br>
+<strong>🔭 Currently working with <!--(Electron + TypeScritp,Vue3), -->C (Embedded Systems), C# .NET Core...</strong> <br> 
 Feel free to contact me. Have a good day! 🌱
 
 ## Skills
