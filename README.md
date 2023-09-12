@@ -28,7 +28,7 @@ Feel free to contact me. Have a good day! 🌱
 ## My Github Stats
 <div align="">
 <div align="center" >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cimorexave&hide=html,CSS,SCSS,JavaScript&langs_count=8&theme=dracula&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cimorexave&hide=html,CSS,SCSS&langs_count=8&theme=dracula&layout=compact"/>
 </div>
   <!--
 <div align="" >
