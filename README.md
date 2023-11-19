@@ -9,7 +9,7 @@ Feel free to contact me. Have a good day! 🌱
   <li> 👨‍💻 Languanges: TypeScript/JavaScript, C#, C, PHP</li> 
   <li> ⚙️ Frameworks: React, Vue(3,2), Next, Nuxt3, Nestjs, Express, Electron, .NET Core (ASP.NET, WinForms, ClassLib, xUnit), Laravel </li>
   <li> 👁️ Styling: CSS, TailwindCSS, Material UI, Flowbite, Framer Motion </li> 
-  <li> 🌱 Database: PostgreSQL, MongoDB, Prisma, TypeORM </li>
+  <li> 🌱 Database: PostgreSQL, Prisma</li>
   <li> ⚡ Other Technologies: Docker, Linux </li>
   <!-- LinuxOS(CLI), Redis, Socket.io, gRPC, GraphQL, Apollo, Kavenger, puppeteer, Jest, Cypress, React Testing Library, GSAP -->  
   <!--  Concepts: Microservices, Clean Code, Design Patterns, OOP, CDN, CI/CD, Unit Testing, -->
@@ -18,7 +18,7 @@ Feel free to contact me. Have a good day! 🌱
   
   <img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" alt="TypeScript" width="55" height="55"/>
   <img src="https://seeklogo.com/images/N/nuxt-logo-64E0472AA8-seeklogo.com.png" alt="Nuxt" width="55" height="43"/>
-  <img src="https://seeklogo.com/images/P/PHP-logo-0B2FDC4529-seeklogo.com.png" alt="php" width="75" height="55"/> 
+  <img src="https://seeklogo.com/images/P/PHP-logo-0B2FDC4529-seeklogo.com.png" alt="php" width="75" height="55"/>
   <img src="https://seeklogo.com/images/P/PostgreSQL_Inc-logo-09A7EFEB72-seeklogo.com.png" alt="PostgreSQL" width="55" height="55" margin="5"/>
   <img src="https://seeklogo.com/images/M/microsoft-net-framework-logo-B9BA1A3DA1-seeklogo.com.png" alt=".NET" width="55" height="55" margin="5"/>
   <img src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png" alt="BASH" width="55" height="55"/>
