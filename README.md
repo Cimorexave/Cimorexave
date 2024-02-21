@@ -1,7 +1,7 @@
 ### Hi there 👋 My Name is Sina Sadeqi 
 
 Studying Computer Network Engineering M.Sc; I'm a Full-Stack Software Developer specialized in Front-End Development. <br>
-<strong>🔭 Currently working with <!--(Electron + TypeScritp,Vue3), -->Flutter, C# .NET Core...</strong> <br>
+<strong>🔭 Currently working with <!--(Electron + TypeScritp,Vue3), -->Flutter, C# .NET Core, Enterprise COBOL for z/OS...</strong> <br>
 Feel free to contact me. Have a good day! 🌱
 
 ## Skills
