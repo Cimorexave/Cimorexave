@@ -28,7 +28,9 @@ Feel free to contact me. Have a good day! 🌱
 
 ## My Github Stats
 <div align="">
-  [committers.top badge](https://user-badge.committers.top/iran/Cimorexave.svg)(https://user-badge.committers.top/iran/Cimorexave)
+  <div>
+  [![committers.top badge](https://user-badge.committers.top/iran/Cimorexave.svg)](https://user-badge.committers.top/iran/Cimorexave)
+  </div>
 <div align="center" >
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cimorexave&hide=html,CSS,SCSS,python&langs_count=10&theme=dracula&layout=compact"/>
 </div>
