@@ -1,18 +1,15 @@
 ### Hi there 👋 My Name is Sina Sadeqi <img src="https://user-badge.committers.top/iran/Cimorexave.svg" />
 
-Studying Computer Network Engineering M.Sc; I'm a Full-Stack Software Developer specialized in Front-End Development. <br>
-<strong>🔭 Currently working with <!--(Electron + TypeScritp,Vue3), -->Flutter, Enterprise COBOL for z/OS...</strong> <br>
+Studying Computer Network Engineering M.Sc; I'm a Software Engineer. <br>
+<strong>🔭 Currently working with Flutter, Enterprise COBOL for z/OS...</strong> <br>
 Feel free to contact me. Have a good day! 🌱
 
-## Skills
+## Technical Experience
 <ul> 
-  <li> 👨‍💻 Languanges: TypeScript/JavaScript, C#, Dart, C, PHP</li> 
-  <li> ⚙️ Frameworks: React, Vue(3,2), Next, Nuxt3, Nestjs, Express, Electron, .NET Core (ASP.NET, WinForms, ClassLib, xUnit), Flutter </li>
-  <li> 👁️ Styling: CSS, TailwindCSS, Material UI, Flowbite, Framer Motion </li> 
-  <li> 🌱 Database: PostgreSQL, Prisma</li>
-  <li> ⚡ Other Technologies: Docker, Linux </li>
-  <!-- LinuxOS(CLI), Redis, Socket.io, gRPC, GraphQL, Apollo, Kavenger, puppeteer, Jest, Cypress, React Testing Library, GSAP -->  
-  <!--  Concepts: Microservices, Clean Code, Design Patterns, OOP, CDN, CI/CD, Unit Testing, -->
+  <li> 👨‍💻 Languanges: TypeScript/JavaScript, C#, Dart, C, PHP, COBOL</li>
+  <!--<li> ⚙️ Frameworks & Tools: React/Next, Vue/Nuxt(3,2), Nestjs, Express, Electron, .NET Core (ASP.NET, WinForms, ClassLib, xUnit), Flutter</li>-->
+  <li> 🌱 Platforms: Desktop(Electron, Flutter, .NET WinForms), Mobile(Flutter, React Native), Web(React/Next, Vue/Nuxt3&2, Express, Nest, ASP.NET), Mainframe(COBOL, JCL)</li>
+  <!--<li> ⚡ Other Technologies: Docker, Linux </li>-->
 </ul>
 <p align="right" >
   
