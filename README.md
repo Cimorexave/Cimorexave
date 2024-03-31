@@ -6,26 +6,26 @@ Feel free to contact me. Have a good day! 🌱
 
 ## Technical Experience
 <ul> 
-  <li> <ol> <h4> Web: </h4>
+  <li> <ul> <h4> Web: </h4>
     🕸 Preferred Stack: javascript, Vue3, PHP, PostgreSQL, Docker. <br>
     <li> Front-End Web Applications; React, Next, Vue(3,2), Nuxt(3,2), Flutter Web </li>
     <li> Back-End Web Applications; Express, Nest, PostgreSQL, Prisma, TypeORM, PHP, ASP.NET Core, </li>
-    </ol>
+    </ul>
   </li>
-  <li> <ol> <h4> Desktop: </h4>
+  <li> <ul> <h4> Desktop: </h4>
     💻 Preferred Stack: C# .NET Core. <br>
     <li> Desktop Applications; .NET (WinForms, ClassLib, xUnit), Electron </li>
     <li> Console Applications & Scripting; .NET, C, BASH </li>
-    </ol>
+    </ul>
   </li>
-  <li> <ol> <h4> Mobile: </h4>
+  <li> <ul> <h4> Mobile: </h4>
     📱 Preferred Stack: Flutter, Hive, Kotlin/Swift (for external scripts) <br>
     <li> Mobile Applications; Flutter, Hive </li>
-    </ol>
+    </ul>
   </li>
-  <li> <ol> <h4> Mainframe: </h4>
+  <li> <ul> <h4> Mainframe: </h4>
     <li> IBM z/OS: JCL for System and Jobs batch Management, DB2, COBOL for applications </li>
-    </ol>
+    </ul>
   </li>
 <!--   <li> 👨‍💻 Languanges: TypeScript/JavaScript, C#, Dart, C, PHP, COBOL</li> -->
   <!--<li> ⚙️ Frameworks & Tools: React/Next, Vue/Nuxt(3,2), Nestjs, Express, Electron, .NET Core (ASP.NET, WinForms, ClassLib, xUnit), Flutter</li>-->
