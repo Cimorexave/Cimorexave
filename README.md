@@ -24,7 +24,7 @@ Feel free to contact me through my email. Have a good day! 🌱
     </ul>
   </li>
   <li> <ul> <h4> Mainframe: </h4>
-    <li> IBM z/OS: JCL for System and Jobs batch Management, DB2, COBOL for applications </li>
+    <li> IBM z/OS: JCL for System and Jobs batch Management, DB2, COBOL </li>
     </ul>
   </li>
 </ul>
