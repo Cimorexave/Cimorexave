@@ -28,6 +28,7 @@ Feel free to contact me through my email. Have a good day! 🌱
     </ul>
   </li>
 </ul>
+<br>
 <p align="right" >
   <img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" alt="javascript" width="55" height="55"/>
   <img src="https://seeklogo.com/images/N/nuxt-logo-64E0472AA8-seeklogo.com.png" alt="Nuxt3" width="55" height="43"/>
