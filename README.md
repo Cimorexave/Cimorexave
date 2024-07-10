@@ -2,7 +2,7 @@
 
 
 Software Engineer; Studying Computer Network Engineering M.Eng.<br>
-<strong>🔭 Currently working with Flutter, Enterprise COBOL for z/OS...</strong><br> 
+<strong>🔭 Currently working with Enterprise COBOL for z/OS...</strong><br> 
 Feel free to contact me through my email. Have a good day! 🌱
 
 ## Technical Experience
