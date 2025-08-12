@@ -31,7 +31,7 @@ Feel free to contact me through my email. Have a good day! 🌱
   </li>
 </ul>
 <br>
-<p align="right" >
+<!--<p align="right" >
   <img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" alt="javascript" width="55" height="55"/>
   <img src="https://seeklogo.com/images/N/nuxt-logo-64E0472AA8-seeklogo.com.png" alt="Nuxt3" width="55" height="43"/>
   <img src="https://seeklogo.com/images/P/PHP-logo-0B2FDC4529-seeklogo.com.png" alt="PHP" width="75" height="55"/>
@@ -40,7 +40,7 @@ Feel free to contact me through my email. Have a good day! 🌱
   <img src="https://seeklogo.com/images/M/microsoft-net-framework-logo-B9BA1A3DA1-seeklogo.com.png" alt=".NET" width="55" height="55" margin="5"/>
   <img src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png" alt="C" width="55" height="55"/>
   <img src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png" alt="Flutter" width="55" height="55"/>
-</p> 
+</p> -->
 
 ## My Github Stats
 
