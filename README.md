@@ -14,16 +14,16 @@ Feel free to contact me through my email. Have a good day! 🌱
     <li> Console Applications & Scripting; .NET, C, BASH </li>
     </ul>
   </li>
-  <li> <ul> <h4> Mobile: </h4>
-    Preferred Stack: Flutter, Hive, Kotlin/Swift (for external scripts) <br>
-    <li> Mobile Applications; Flutter, Hive </li>
-    </ul>
-  </li>
   <li> <ul> <h4> Mainframe: </h4>
     <li> JCL </li>
     <li> REXX (scripting) </li>
     <li> COBOL </li>
     <li> C </li>
+    </ul>
+  </li>
+  <li> <ul> <h4> Mobile: </h4>
+    Preferred Stack: Flutter, Hive, Kotlin/Swift (for external scripts) <br>
+    <li> Mobile Applications; Flutter, Hive </li>
     </ul>
   </li>
   <li> <ul> <h4> Web: </h4>
