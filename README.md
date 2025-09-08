@@ -9,22 +9,25 @@ Feel free to contact me through my email. Have a good day! 🌱
 ## Technical Experience
 <ul> 
   <li> <ul> <h4> Desktop: </h4>
-    💻 Preferred Stack: C# .NET Core. <br>
+    Preferred Stack: C# .NET Core. <br>
     <li> Desktop Applications; .NET (WinForms, ClassLib, xUnit), Electron </li>
     <li> Console Applications & Scripting; .NET, C, BASH </li>
     </ul>
   </li>
   <li> <ul> <h4> Mobile: </h4>
-    📱 Preferred Stack: Flutter, Hive, Kotlin/Swift (for external scripts) <br>
+    Preferred Stack: Flutter, Hive, Kotlin/Swift (for external scripts) <br>
     <li> Mobile Applications; Flutter, Hive </li>
     </ul>
   </li>
   <li> <ul> <h4> Mainframe: </h4>
-    <li> IBM z/OS: JCL for System and Jobs batch Management, DB2, COBOL </li>
+    <li> JCL </li>
+    <li> REXX (scripting) </li>
+    <li> COBOL </li>
+    <li> C </li>
     </ul>
   </li>
   <li> <ul> <h4> Web: </h4>
-    🕸 Preferred Stack: javascript, Vue3, PHP, PostgreSQL, Docker. <br>
+    Preferred Stack: javascript, Vue3, PHP, PostgreSQL, Docker. <br>
     <li> Front-End Web Applications; React, Next, Vue(3,2), Nuxt(3,2), Flutter Web </li>
     <li> Back-End Web Applications; Express, Nest, PostgreSQL, Prisma, TypeORM, PHP, ASP.NET Core, </li>
     </ul>
