@@ -2,18 +2,12 @@
 
 
 
-Software Engineer; Studying Computer Network Engineering M.Eng.<br>
+Software Engineer; Studying M.Sc. Computational Science at TUWien-<br>
 <strong>🔭 Currently working with Enterprise COBOL for z/OS and C...</strong><br> 
 Feel free to contact me through my email. Have a good day! 🌱
 
 ## Technical Experience
 <ul> 
-  <li> <ul> <h4> Web: </h4>
-    🕸 Preferred Stack: javascript, Vue3, PHP, PostgreSQL, Docker. <br>
-    <li> Front-End Web Applications; React, Next, Vue(3,2), Nuxt(3,2), Flutter Web </li>
-    <li> Back-End Web Applications; Express, Nest, PostgreSQL, Prisma, TypeORM, PHP, ASP.NET Core, </li>
-    </ul>
-  </li>
   <li> <ul> <h4> Desktop: </h4>
     💻 Preferred Stack: C# .NET Core. <br>
     <li> Desktop Applications; .NET (WinForms, ClassLib, xUnit), Electron </li>
@@ -27,6 +21,12 @@ Feel free to contact me through my email. Have a good day! 🌱
   </li>
   <li> <ul> <h4> Mainframe: </h4>
     <li> IBM z/OS: JCL for System and Jobs batch Management, DB2, COBOL </li>
+    </ul>
+  </li>
+  <li> <ul> <h4> Web: </h4>
+    🕸 Preferred Stack: javascript, Vue3, PHP, PostgreSQL, Docker. <br>
+    <li> Front-End Web Applications; React, Next, Vue(3,2), Nuxt(3,2), Flutter Web </li>
+    <li> Back-End Web Applications; Express, Nest, PostgreSQL, Prisma, TypeORM, PHP, ASP.NET Core, </li>
     </ul>
   </li>
 </ul>
