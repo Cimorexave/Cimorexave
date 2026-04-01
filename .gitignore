@@ -1,2 +1,5 @@
 # data extraction and organization scripts
 *.py
+
+# private documents
+*.pdf
