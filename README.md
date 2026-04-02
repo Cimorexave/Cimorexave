@@ -20,15 +20,14 @@ M.Sc. Computational Science at TU Wien | Specializing in ML Applications in Chem
 
 ## 🚀 About Me
 
-I'm a Computational Scientist and Software Engineer currently pursuing my Master's in Computational Science at **TU Wien**, with a strong background in Chemical Engineering. My research focuses on **Machine Learning applications in Chemistry**, particularly in quantum chemistry, molecular simulation, and high-performance computing.
+I'm a Computational Scientist and Software Engineer currently pursuing my Master's in Computational Science at **TU Wien**, with a strong background in Chemical Engineering. My research focuses on **Computational Chemistry**, **Efficient Numerical Methods and Algorithms**, particularly in quantum chemistry, molecular simulation, and high-performance computing.
 
 **🔭 Current Focus:** Developing efficient algorithms for chemical systems, implementing numerical models, and applying ML to computational chemistry problems.
 
 **🌱 Learning:** Advanced quantum chemical methods, parallel computing architectures, and scalable ML models for scientific applications.
 
-**💬 Ask me about:** Scientific computing, .NET development, computational chemistry, or full-stack web development!
 
-**⚡ Fun fact:** I transitioned from Chemical Engineering to Computational Science, combining my domain knowledge with advanced programming skills.
+**⚡ Fun fact:** I transitioned from Chemical Engineering to Computer Engineering and then Computational Science, Bridghing all these three fields together.
 
 ---
 
