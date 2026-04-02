@@ -3,7 +3,6 @@
 # 👋 Hi, I'm Sina Sadeqi
 
 ### **Software Engineer | Computational Scientist |  Scientific Programmer**  
-M.Sc. Computational Science at TU Wien | Specializing in ML Applications in Chemistry
 
 [![committers.top badge](https://user-badge.committers.top/austria/Cimorexave.svg)](https://user-badge.committers.top/austria/Cimorexave)
 [![GitHub followers](https://img.shields.io/github/followers/Cimorexave?style=social)](https://github.com/Cimorexave)
