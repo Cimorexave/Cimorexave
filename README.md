@@ -91,34 +91,22 @@ I'm a Computational Scientist and Software Engineer currently pursuing my Master
 
 ---
 
-## 🔬 Research Interests
+<!-- ## 🔬 Research Interests
 
 - **Computational Chemistry & Quantum Methods**
-- **Algorithm Design & Optimization** for chemical systems
+- **Material Science Modelling**
+- **Algorithm Design & Optimization**
 - **High-Performance Computing** and parallel algorithms
+- **Efficient Algorithms**
 - **Molecular Simulation** and structure prediction
-- **Machine Learning** applications in chemistry
-- **Numerical Modeling** of chemical processes
+- **Machine Learning** applications 
+- **Numerical Modeling**
 
----
-
-## 🌐 Languages & Soft Skills
-
-### **Human Languages**
-- **English**: Professional proficiency (IELTS 7.5)
-- **Farsi**: Native speaker
-- **German**: Basic (A1 level, learning)
-
-### **Strengths**
-- **Independent Learning**: Highly skilled in self-directed learning and research
-- **Problem Solving**: Strong analytical and algorithmic thinking
-- **Cross-Domain Expertise**: Bridge between chemistry and computer science
-- **Scientific Communication**: Ability to explain complex concepts clearly
+--- -->
 
 ### **Interests**
 - Music production & audio engineering
-- Philosophy of science
-- Running & fitness
+- Philosophy
 - Open-source contributions
 
 ---
@@ -137,13 +125,6 @@ I'm a Computational Scientist and Software Engineer currently pursuing my Master
 ---
 
 <div align="center">
-
-### ⚡ **Quick Facts**
-- 🎓 **Dual Background**: Chemical Engineering + Computer Science
-- 🔬 **Research Focus**: ML in Chemistry & High-Performance Computing
-- 💻 **Full-Stack Developer**: Desktop, Web, Mobile, Mainframe
-- 🌍 **Multilingual**: English, Farsi, German
-- 🎵 **Music Producer**: Audio engineering enthusiast
 
 **Thanks for visiting my profile!**  
 *Feel free to explore my repositories and reach out for collaboration!*
