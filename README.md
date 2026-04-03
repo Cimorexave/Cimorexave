@@ -19,7 +19,7 @@
 
 ## 🚀 About Me
 
-I'm a Computational Scientist and Software Engineer currently pursuing my Master's in Computational Science at **TU Wien**, with a strong background in Chemical Engineering. My research focuses on **Computational Chemistry**, **Efficient Numerical Methods and Algorithms**, particularly in quantum chemistry, molecular simulation, and high-performance computing.
+I'm a Computational Scientist and Software Engineer currently pursuing my Master's in Computational Science at **TU Wien**, with a strong background in Chemical Engineering. My research focuses on **Computational Chemistry**, **Efficient Numerical Methods and Algorithms**, particularly in high-performance computing.
 
 **🔭 Current Focus:** Developing efficient algorithms for chemical systems, implementing numerical models, and applying ML to computational chemistry problems.
 
@@ -105,7 +105,8 @@ I'm a Computational Scientist and Software Engineer currently pursuing my Master
 --- -->
 
 ### **Interests**
-- Music production & audio engineering
+- Music & Audio Devices (IEMs, Flatheads)
+- Technology
 - Philosophy
 - Open-source contributions
 
