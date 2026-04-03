@@ -78,10 +78,8 @@ I'm a Computational Scientist and Software Engineer currently pursuing my Master
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cimorexave&show_icons=true&count_private=true&theme=radical&hide_border=true&include_all_commits=true)
-<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cimorexave&layout=compact&theme=radical&hide_border=true&langs_count=10&hide=html,css,scss)
--->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cimorexave&langs_count=10&hide=html,css,scss&theme=radical)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Cimorexave&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Cimorexave&langs_count=10&hide=html,css,scss&theme=radical)
   
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Cimorexave&theme=radical&hide_border=true&fire=DD2727)
