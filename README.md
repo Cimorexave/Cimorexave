@@ -79,7 +79,8 @@ I'm a Computational Scientist and Software Engineer currently pursuing my Master
 <div align="center">
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cimorexave&show_icons=true&count_private=true&theme=radical&hide_border=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cimorexave&layout=compact&theme=radical&hide_border=true&langs_count=10&hide=html,css,scss,cmake)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cimorexave&layout=compact&theme=radical&hide_border=true&langs_count=10&hide=html,css,scss)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Cimorexave&theme=radical&hide_border=true&fire=DD2727)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Cimorexave&theme=radical&no-frame=true&row=2&column=4)
