@@ -107,7 +107,7 @@ I'm a Computational Scientist and Software Engineer currently pursuing my Master
 ### **Interests**
 - Music & Audio Devices (IEMs, Flatheads)
 - Technology
-- Philosophy
+- Philosophy 
 - Open-source contributions
 
 ---
