@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Sina Sadeqi
+# 👋 Hi, I'm Sina Sadeqi 
 
 ### **Software Engineer | Computational Scientist |  Scientific Programmer**  
 
