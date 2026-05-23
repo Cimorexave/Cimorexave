@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Sina Sadeghi
 
-### **Software Engineer | Computational Scientist |  Scientific Programmer** 
+### **Software Engineer | Computational Scientist |  Scientific Programmer**  
 [![committers.top badge](https://user-badge.committers.top/austria/Cimorexave.svg)](https://user-badge.committers.top/austria/Cimorexave)
 [![GitHub followers](https://img.shields.io/github/followers/Cimorexave?style=social)](https://github.com/Cimorexave)
 [![Visitors](https://komarev.com/ghpvc/?username=Cimorexave&color=blue&style=flat)](https://github.com/Cimorexave)
