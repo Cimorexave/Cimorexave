@@ -5,7 +5,6 @@
 ### **Software Engineer | Computational Scientist |  Scientific Programmer** 
 [![ORCID iD](https://img.shields.io/badge/ORCID-0000--0002--1825--0097-A6CE39?logo=orcid&logoColor=A6CE39)](https://orcid.org/0000-0002-1825-0097)
 [![committers.top badge](https://user-badge.committers.top/austria/Cimorexave.svg)](https://user-badge.committers.top/austria/Cimorexave)
-[![GitHub followers](https://img.shields.io/github/followers/Cimorexave?style=social)](https://github.com/Cimorexave)
 [![Visitors](https://komarev.com/ghpvc/?username=Cimorexave&color=blue&style=flat)](https://github.com/Cimorexave)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sina-sadeqi)
