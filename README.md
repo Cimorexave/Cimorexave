@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Sina Sadeghi
 
-### **Software Engineer | Computational Scientist |  Scientific Programmer**
+### **Software Engineer | Computational Scientist |  Scientific Programmer** 
 <!--[![ORCID iD](https://img.shields.io/badge/ORCID-0000--0002--1825--0097-A6CE39?logo=orcid&logoColor=A6CE39)](https://orcid.org/0000-0002-1825-0097)-->
 [![committers.top badge](https://user-badge.committers.top/austria/Cimorexave.svg)](https://user-badge.committers.top/austria/Cimorexave)
 [![Visitors](https://komarev.com/ghpvc/?username=Cimorexave&color=blue&style=flat)](https://github.com/Cimorexave)
