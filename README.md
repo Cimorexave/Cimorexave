@@ -18,14 +18,11 @@
 
 ## 🚀 About Me
 
-I'm a Computational Scientist and Software Engineer currently pursuing my Master's in Computational Science at **TU Wien**, with a strong background in Chemical Engineering. My research focuses on **Computational Chemistry**, **Efficient Numerical Methods and Algorithms**, particularly in high-performance computing.
+I'm a Computational Scientist and Software Engineer currently pursuing my Master's in Computational Science at **TU Wien**, with a strong background in Chemical Engineering. My research focuses on **Analog Computing**, **High-Performance Computing (HPC)**, and **Efficient Numerical Methods and Algorithms**.
 
-**🔭 Current Focus:** Developing efficient algorithms for chemical systems, implementing numerical models, and applying ML to computational chemistry problems.
+**🔭 Current Focus:** Analog Computing in HPC, Molecular Dynamics Simulations, Von Neumann Bottleneck.
 
-**🌱 Learning:** Advanced quantum chemical methods, parallel computing architectures, and scalable ML models for scientific applications.
-
-
-**⚡ Fun fact:** I transitioned from Chemical Engineering to Computer Engineering and then Computational Science, Bridghing all these three fields together.
+**🌱 Learning:** IBM AIHWKIT, Approximated DFT Solutions, Computational Chemistry.
 
 ---
 
