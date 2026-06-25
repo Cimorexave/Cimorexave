@@ -107,12 +107,21 @@
                 gap: 1rem;
             }
         }
+        .top-banner { display:flex; justify-content: space-between; align-items: center; }
+        .download-btn { padding: 10px 20px; background: #28a745; color: white; text-decoration: none; border-radius: 4px; font-weight: bold; }
+        .download-btn:hover { background: #218838; }
     </style>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 </head>
 <body>
     <header>
-        <h1>Sina Sadeghi</h1>
+        <div class="top-banner">
+                <h1>Sina Sadeghi
+                </h1>
+                <a href="CV_K.pdf" download="CV.pdf" class="download-btn">
+                    📥 Download CV
+                </a>
+            </div>
         <p class="subtitle">Software Engineer | Scientific Programmer | Computational Scientist</p>
         <div class="contact-info">
             <div><i class="fas fa-map-marker-alt"></i> Brigittenauer Lande 224‑228, 1200 Wien</div>
